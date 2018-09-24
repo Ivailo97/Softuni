@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Division\bin\Debug\netcoreapp2.0\Division.deps.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Division\bin\Debug\netcoreapp2.0\Division.runtimeconfig.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Division\bin\Debug\netcoreapp2.0\Division.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Division\bin\Debug\netcoreapp2.0\Division.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Division\bin\Debug\netcoreapp2.0\Division.pdb
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Division\obj\Debug\netcoreapp2.0\Division.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Division\obj\Debug\netcoreapp2.0\Division.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Division\obj\Debug\netcoreapp2.0\Division.AssemblyInfo.cs
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Division\obj\Debug\netcoreapp2.0\Division.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Division\obj\Debug\netcoreapp2.0\Division.pdb

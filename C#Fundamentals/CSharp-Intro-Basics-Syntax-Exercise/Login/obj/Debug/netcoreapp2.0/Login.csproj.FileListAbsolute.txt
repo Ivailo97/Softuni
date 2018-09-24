@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Login\bin\Debug\netcoreapp2.0\Login.deps.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Login\bin\Debug\netcoreapp2.0\Login.runtimeconfig.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Login\bin\Debug\netcoreapp2.0\Login.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Login\bin\Debug\netcoreapp2.0\Login.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Login\bin\Debug\netcoreapp2.0\Login.pdb
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Login\obj\Debug\netcoreapp2.0\Login.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Login\obj\Debug\netcoreapp2.0\Login.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Login\obj\Debug\netcoreapp2.0\Login.AssemblyInfo.cs
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Login\obj\Debug\netcoreapp2.0\Login.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Login\obj\Debug\netcoreapp2.0\Login.pdb

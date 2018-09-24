@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\StrongNumber\bin\Debug\netcoreapp2.0\StrongNumber.deps.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\StrongNumber\bin\Debug\netcoreapp2.0\StrongNumber.runtimeconfig.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\StrongNumber\bin\Debug\netcoreapp2.0\StrongNumber.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\StrongNumber\bin\Debug\netcoreapp2.0\StrongNumber.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\StrongNumber\bin\Debug\netcoreapp2.0\StrongNumber.pdb
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\StrongNumber\obj\Debug\netcoreapp2.0\StrongNumber.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\StrongNumber\obj\Debug\netcoreapp2.0\StrongNumber.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\StrongNumber\obj\Debug\netcoreapp2.0\StrongNumber.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\StrongNumber\obj\Debug\netcoreapp2.0\StrongNumber.AssemblyInfo.cs
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\StrongNumber\obj\Debug\netcoreapp2.0\StrongNumber.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\StrongNumber\obj\Debug\netcoreapp2.0\StrongNumber.pdb

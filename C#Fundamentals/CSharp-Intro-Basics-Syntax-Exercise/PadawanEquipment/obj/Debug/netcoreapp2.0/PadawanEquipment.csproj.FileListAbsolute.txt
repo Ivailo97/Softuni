@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\PadawanEquipment\bin\Debug\netcoreapp2.0\PadawanEquipment.deps.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\PadawanEquipment\bin\Debug\netcoreapp2.0\PadawanEquipment.runtimeconfig.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\PadawanEquipment\bin\Debug\netcoreapp2.0\PadawanEquipment.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\PadawanEquipment\bin\Debug\netcoreapp2.0\PadawanEquipment.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\PadawanEquipment\bin\Debug\netcoreapp2.0\PadawanEquipment.pdb
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\PadawanEquipment\obj\Debug\netcoreapp2.0\PadawanEquipment.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\PadawanEquipment\obj\Debug\netcoreapp2.0\PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\PadawanEquipment\obj\Debug\netcoreapp2.0\PadawanEquipment.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\PadawanEquipment\obj\Debug\netcoreapp2.0\PadawanEquipment.AssemblyInfo.cs
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\PadawanEquipment\obj\Debug\netcoreapp2.0\PadawanEquipment.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\PadawanEquipment\obj\Debug\netcoreapp2.0\PadawanEquipment.pdb

@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\ConsoleApp1\bin\Debug\netcoreapp2.0\Ages.deps.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\ConsoleApp1\bin\Debug\netcoreapp2.0\Ages.runtimeconfig.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\ConsoleApp1\bin\Debug\netcoreapp2.0\Ages.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\ConsoleApp1\bin\Debug\netcoreapp2.0\Ages.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\ConsoleApp1\bin\Debug\netcoreapp2.0\Ages.pdb
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\ConsoleApp1\obj\Debug\netcoreapp2.0\Ages.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\ConsoleApp1\obj\Debug\netcoreapp2.0\Ages.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\ConsoleApp1\obj\Debug\netcoreapp2.0\Ages.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\ConsoleApp1\obj\Debug\netcoreapp2.0\Ages.AssemblyInfo.cs
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\ConsoleApp1\obj\Debug\netcoreapp2.0\Ages.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\ConsoleApp1\obj\Debug\netcoreapp2.0\Ages.pdb

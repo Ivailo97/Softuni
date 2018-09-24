@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\SumOfOddNumbers\bin\Debug\netcoreapp2.0\SumOfOddNumbers.deps.json
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\SumOfOddNumbers\bin\Debug\netcoreapp2.0\SumOfOddNumbers.runtimeconfig.json
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\SumOfOddNumbers\bin\Debug\netcoreapp2.0\SumOfOddNumbers.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\SumOfOddNumbers\bin\Debug\netcoreapp2.0\SumOfOddNumbers.dll
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\SumOfOddNumbers\bin\Debug\netcoreapp2.0\SumOfOddNumbers.pdb
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\SumOfOddNumbers\obj\Debug\netcoreapp2.0\SumOfOddNumbers.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\SumOfOddNumbers\obj\Debug\netcoreapp2.0\SumOfOddNumbers.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\SumOfOddNumbers\obj\Debug\netcoreapp2.0\SumOfOddNumbers.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\SumOfOddNumbers\obj\Debug\netcoreapp2.0\SumOfOddNumbers.AssemblyInfo.cs
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\SumOfOddNumbers\obj\Debug\netcoreapp2.0\SumOfOddNumbers.dll
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\SumOfOddNumbers\obj\Debug\netcoreapp2.0\SumOfOddNumbers.pdb

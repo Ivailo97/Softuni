@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\HolidaysBetweenTwoDates.deps.json
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\HolidaysBetweenTwoDates.runtimeconfig.json
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\HolidaysBetweenTwoDates.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\HolidaysBetweenTwoDates.dll
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\HolidaysBetweenTwoDates.pdb
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\HolidaysBetweenTwoDates.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\HolidaysBetweenTwoDates.AssemblyInfo.cs
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\HolidaysBetweenTwoDates.dll
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\HolidaysBetweenTwoDates.pdb

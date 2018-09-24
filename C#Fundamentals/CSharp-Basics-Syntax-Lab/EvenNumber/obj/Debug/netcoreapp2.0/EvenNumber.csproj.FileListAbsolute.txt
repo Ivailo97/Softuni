@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\EvenNumber\bin\Debug\netcoreapp2.0\EvenNumber.deps.json
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\EvenNumber\bin\Debug\netcoreapp2.0\EvenNumber.runtimeconfig.json
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\EvenNumber\bin\Debug\netcoreapp2.0\EvenNumber.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\EvenNumber\bin\Debug\netcoreapp2.0\EvenNumber.dll
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\EvenNumber\bin\Debug\netcoreapp2.0\EvenNumber.pdb
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\EvenNumber\obj\Debug\netcoreapp2.0\EvenNumber.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\EvenNumber\obj\Debug\netcoreapp2.0\EvenNumber.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\EvenNumber\obj\Debug\netcoreapp2.0\EvenNumber.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\EvenNumber\obj\Debug\netcoreapp2.0\EvenNumber.AssemblyInfo.cs
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\EvenNumber\obj\Debug\netcoreapp2.0\EvenNumber.dll
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\EvenNumber\obj\Debug\netcoreapp2.0\EvenNumber.pdb

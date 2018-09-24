@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\BackIn30Minutes\bin\Debug\netcoreapp2.0\BackIn30Minutes.deps.json
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\BackIn30Minutes\bin\Debug\netcoreapp2.0\BackIn30Minutes.runtimeconfig.json
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\BackIn30Minutes\bin\Debug\netcoreapp2.0\BackIn30Minutes.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\BackIn30Minutes\bin\Debug\netcoreapp2.0\BackIn30Minutes.dll
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\BackIn30Minutes\bin\Debug\netcoreapp2.0\BackIn30Minutes.pdb
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\BackIn30Minutes\obj\Debug\netcoreapp2.0\BackIn30Minutes.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\BackIn30Minutes\obj\Debug\netcoreapp2.0\BackIn30Minutes.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\BackIn30Minutes\obj\Debug\netcoreapp2.0\BackIn30Minutes.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\BackIn30Minutes\obj\Debug\netcoreapp2.0\BackIn30Minutes.AssemblyInfo.cs
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\BackIn30Minutes\obj\Debug\netcoreapp2.0\BackIn30Minutes.dll
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\BackIn30Minutes\obj\Debug\netcoreapp2.0\BackIn30Minutes.pdb

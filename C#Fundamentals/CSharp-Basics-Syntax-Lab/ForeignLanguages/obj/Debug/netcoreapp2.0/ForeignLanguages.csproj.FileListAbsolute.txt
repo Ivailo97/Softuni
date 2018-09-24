@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\ForeignLanguages\bin\Debug\netcoreapp2.0\ForeignLanguages.deps.json
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\ForeignLanguages\bin\Debug\netcoreapp2.0\ForeignLanguages.runtimeconfig.json
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\ForeignLanguages\bin\Debug\netcoreapp2.0\ForeignLanguages.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\ForeignLanguages\bin\Debug\netcoreapp2.0\ForeignLanguages.dll
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\ForeignLanguages\bin\Debug\netcoreapp2.0\ForeignLanguages.pdb
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\ForeignLanguages\obj\Debug\netcoreapp2.0\ForeignLanguages.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\ForeignLanguages\obj\Debug\netcoreapp2.0\ForeignLanguages.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\ForeignLanguages\obj\Debug\netcoreapp2.0\ForeignLanguages.AssemblyInfo.cs
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\ForeignLanguages\obj\Debug\netcoreapp2.0\ForeignLanguages.dll
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\ForeignLanguages\obj\Debug\netcoreapp2.0\ForeignLanguages.pdb

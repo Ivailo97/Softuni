@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Vacation\bin\Debug\netcoreapp2.0\Vacation.deps.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Vacation\bin\Debug\netcoreapp2.0\Vacation.runtimeconfig.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Vacation\bin\Debug\netcoreapp2.0\Vacation.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Vacation\bin\Debug\netcoreapp2.0\Vacation.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Vacation\bin\Debug\netcoreapp2.0\Vacation.pdb
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Vacation\obj\Debug\netcoreapp2.0\Vacation.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Vacation\obj\Debug\netcoreapp2.0\Vacation.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Vacation\obj\Debug\netcoreapp2.0\Vacation.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Vacation\obj\Debug\netcoreapp2.0\Vacation.AssemblyInfo.cs
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Vacation\obj\Debug\netcoreapp2.0\Vacation.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\Vacation\obj\Debug\netcoreapp2.0\Vacation.pdb

@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\TriangleOfNumbers\bin\Debug\netcoreapp2.0\TriangleOfNumbers.deps.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\TriangleOfNumbers\bin\Debug\netcoreapp2.0\TriangleOfNumbers.runtimeconfig.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\TriangleOfNumbers\bin\Debug\netcoreapp2.0\TriangleOfNumbers.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\TriangleOfNumbers\bin\Debug\netcoreapp2.0\TriangleOfNumbers.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\TriangleOfNumbers\bin\Debug\netcoreapp2.0\TriangleOfNumbers.pdb
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\TriangleOfNumbers\obj\Debug\netcoreapp2.0\TriangleOfNumbers.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\TriangleOfNumbers\obj\Debug\netcoreapp2.0\TriangleOfNumbers.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\TriangleOfNumbers\obj\Debug\netcoreapp2.0\TriangleOfNumbers.AssemblyInfo.cs
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\TriangleOfNumbers\obj\Debug\netcoreapp2.0\TriangleOfNumbers.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\TriangleOfNumbers\obj\Debug\netcoreapp2.0\TriangleOfNumbers.pdb

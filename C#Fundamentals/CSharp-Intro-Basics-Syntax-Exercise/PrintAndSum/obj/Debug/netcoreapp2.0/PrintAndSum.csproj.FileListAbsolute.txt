@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\PrintAndSum\obj\Debug\netcoreapp2.0\PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\PrintAndSum\obj\Debug\netcoreapp2.0\PrintAndSum.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\PrintAndSum\obj\Debug\netcoreapp2.0\PrintAndSum.AssemblyInfo.cs
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\PrintAndSum\bin\Debug\netcoreapp2.0\PrintAndSum.deps.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\PrintAndSum\bin\Debug\netcoreapp2.0\PrintAndSum.runtimeconfig.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\PrintAndSum\bin\Debug\netcoreapp2.0\PrintAndSum.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\PrintAndSum\bin\Debug\netcoreapp2.0\PrintAndSum.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\PrintAndSum\bin\Debug\netcoreapp2.0\PrintAndSum.pdb
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\PrintAndSum\obj\Debug\netcoreapp2.0\PrintAndSum.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-Exercise\PrintAndSum\obj\Debug\netcoreapp2.0\PrintAndSum.pdb

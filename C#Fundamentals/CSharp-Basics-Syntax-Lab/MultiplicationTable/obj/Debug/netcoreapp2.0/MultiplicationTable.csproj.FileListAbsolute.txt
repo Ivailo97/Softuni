@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\MultiplicationTable\bin\Debug\netcoreapp2.0\MultiplicationTable.deps.json
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\MultiplicationTable\bin\Debug\netcoreapp2.0\MultiplicationTable.runtimeconfig.json
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\MultiplicationTable\bin\Debug\netcoreapp2.0\MultiplicationTable.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\MultiplicationTable\bin\Debug\netcoreapp2.0\MultiplicationTable.dll
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\MultiplicationTable\bin\Debug\netcoreapp2.0\MultiplicationTable.pdb
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\MultiplicationTable\obj\Debug\netcoreapp2.0\MultiplicationTable.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\MultiplicationTable\obj\Debug\netcoreapp2.0\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\MultiplicationTable\obj\Debug\netcoreapp2.0\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\MultiplicationTable\obj\Debug\netcoreapp2.0\MultiplicationTable.AssemblyInfo.cs
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\MultiplicationTable\obj\Debug\netcoreapp2.0\MultiplicationTable.dll
+C:\Projects\TechModule4.0\CSharp-Basics-Syntax-Lab\MultiplicationTable\obj\Debug\netcoreapp2.0\MultiplicationTable.pdb
