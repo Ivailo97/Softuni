@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS\bin\Debug\netcoreapp2.0\SMS.deps.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS\bin\Debug\netcoreapp2.0\SMS.runtimeconfig.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS\bin\Debug\netcoreapp2.0\SMS.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS\bin\Debug\netcoreapp2.0\SMS.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS\bin\Debug\netcoreapp2.0\SMS.pdb
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS\obj\Debug\netcoreapp2.0\SMS.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS\obj\Debug\netcoreapp2.0\SMS.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS\obj\Debug\netcoreapp2.0\SMS.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS\obj\Debug\netcoreapp2.0\SMS.AssemblyInfo.cs
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS\obj\Debug\netcoreapp2.0\SMS.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS\obj\Debug\netcoreapp2.0\SMS.pdb

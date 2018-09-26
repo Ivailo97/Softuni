@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\ReverseName\bin\Debug\netcoreapp2.0\ReverseName.deps.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\ReverseName\bin\Debug\netcoreapp2.0\ReverseName.runtimeconfig.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\ReverseName\bin\Debug\netcoreapp2.0\ReverseName.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\ReverseName\bin\Debug\netcoreapp2.0\ReverseName.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\ReverseName\bin\Debug\netcoreapp2.0\ReverseName.pdb
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\ReverseName\obj\Debug\netcoreapp2.0\ReverseName.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\ReverseName\obj\Debug\netcoreapp2.0\ReverseName.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\ReverseName\obj\Debug\netcoreapp2.0\ReverseName.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\ReverseName\obj\Debug\netcoreapp2.0\ReverseName.AssemblyInfo.cs
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\ReverseName\obj\Debug\netcoreapp2.0\ReverseName.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\ReverseName\obj\Debug\netcoreapp2.0\ReverseName.pdb

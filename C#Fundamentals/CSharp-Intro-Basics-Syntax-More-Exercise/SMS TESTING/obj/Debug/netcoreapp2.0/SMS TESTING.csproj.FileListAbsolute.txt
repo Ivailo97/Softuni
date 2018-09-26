@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS TESTING\bin\Debug\netcoreapp2.0\SMS TESTING.deps.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS TESTING\bin\Debug\netcoreapp2.0\SMS TESTING.runtimeconfig.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS TESTING\bin\Debug\netcoreapp2.0\SMS TESTING.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS TESTING\bin\Debug\netcoreapp2.0\SMS TESTING.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS TESTING\bin\Debug\netcoreapp2.0\SMS TESTING.pdb
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS TESTING\obj\Debug\netcoreapp2.0\SMS TESTING.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS TESTING\obj\Debug\netcoreapp2.0\SMS TESTING.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS TESTING\obj\Debug\netcoreapp2.0\SMS TESTING.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS TESTING\obj\Debug\netcoreapp2.0\SMS TESTING.AssemblyInfo.cs
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS TESTING\obj\Debug\netcoreapp2.0\SMS TESTING.dll
+C:\Projects\TechModule4.0\CSharp-Intro-Basics-Syntax-More-Exercise\SMS TESTING\obj\Debug\netcoreapp2.0\SMS TESTING.pdb
