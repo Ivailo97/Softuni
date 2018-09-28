@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\TripplesOfLatinLetters\bin\Debug\netcoreapp2.0\TripplesOfLatinLetters.deps.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\TripplesOfLatinLetters\bin\Debug\netcoreapp2.0\TripplesOfLatinLetters.runtimeconfig.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\TripplesOfLatinLetters\bin\Debug\netcoreapp2.0\TripplesOfLatinLetters.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\TripplesOfLatinLetters\bin\Debug\netcoreapp2.0\TripplesOfLatinLetters.dll
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\TripplesOfLatinLetters\bin\Debug\netcoreapp2.0\TripplesOfLatinLetters.pdb
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\TripplesOfLatinLetters\obj\Debug\netcoreapp2.0\TripplesOfLatinLetters.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\TripplesOfLatinLetters\obj\Debug\netcoreapp2.0\TripplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\TripplesOfLatinLetters\obj\Debug\netcoreapp2.0\TripplesOfLatinLetters.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\TripplesOfLatinLetters\obj\Debug\netcoreapp2.0\TripplesOfLatinLetters.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\TripplesOfLatinLetters\obj\Debug\netcoreapp2.0\TripplesOfLatinLetters.dll
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\TripplesOfLatinLetters\obj\Debug\netcoreapp2.0\TripplesOfLatinLetters.pdb

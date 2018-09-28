@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\RefactorSpecialNumbers.deps.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\RefactorSpecialNumbers.runtimeconfig.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\RefactorSpecialNumbers.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\RefactorSpecialNumbers.dll
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\RefactorSpecialNumbers.pdb
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\RefactorSpecialNumbers.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\RefactorSpecialNumbers.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\RefactorSpecialNumbers.dll
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\RefactorSpecialNumbers.pdb

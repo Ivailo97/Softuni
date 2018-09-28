@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\Elevator\bin\Debug\netcoreapp2.0\Elevator.deps.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\Elevator\bin\Debug\netcoreapp2.0\Elevator.runtimeconfig.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\Elevator\bin\Debug\netcoreapp2.0\Elevator.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\Elevator\bin\Debug\netcoreapp2.0\Elevator.dll
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\Elevator\bin\Debug\netcoreapp2.0\Elevator.pdb
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\Elevator\obj\Debug\netcoreapp2.0\Elevator.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\Elevator\obj\Debug\netcoreapp2.0\Elevator.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\Elevator\obj\Debug\netcoreapp2.0\Elevator.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\Elevator\obj\Debug\netcoreapp2.0\Elevator.dll
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\Elevator\obj\Debug\netcoreapp2.0\Elevator.pdb

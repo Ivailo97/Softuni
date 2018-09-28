@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\ConcatNames\bin\Debug\netcoreapp2.0\ConcatNames.deps.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\ConcatNames\bin\Debug\netcoreapp2.0\ConcatNames.runtimeconfig.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\ConcatNames\bin\Debug\netcoreapp2.0\ConcatNames.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\ConcatNames\bin\Debug\netcoreapp2.0\ConcatNames.dll
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\ConcatNames\bin\Debug\netcoreapp2.0\ConcatNames.pdb
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\ConcatNames\obj\Debug\netcoreapp2.0\ConcatNames.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\ConcatNames\obj\Debug\netcoreapp2.0\ConcatNames.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\ConcatNames\obj\Debug\netcoreapp2.0\ConcatNames.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\ConcatNames\obj\Debug\netcoreapp2.0\ConcatNames.dll
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\ConcatNames\obj\Debug\netcoreapp2.0\ConcatNames.pdb

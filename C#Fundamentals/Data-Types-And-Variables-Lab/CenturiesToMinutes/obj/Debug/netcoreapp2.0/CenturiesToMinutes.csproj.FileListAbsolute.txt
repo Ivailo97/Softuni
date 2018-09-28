@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\CenturiesToMinutes\bin\Debug\netcoreapp2.0\CenturiesToMinutes.deps.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\CenturiesToMinutes\bin\Debug\netcoreapp2.0\CenturiesToMinutes.runtimeconfig.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\CenturiesToMinutes\bin\Debug\netcoreapp2.0\CenturiesToMinutes.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\CenturiesToMinutes\bin\Debug\netcoreapp2.0\CenturiesToMinutes.dll
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\CenturiesToMinutes\bin\Debug\netcoreapp2.0\CenturiesToMinutes.pdb
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\CenturiesToMinutes\obj\Debug\netcoreapp2.0\CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\CenturiesToMinutes\obj\Debug\netcoreapp2.0\CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\CenturiesToMinutes\obj\Debug\netcoreapp2.0\CenturiesToMinutes.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\CenturiesToMinutes\obj\Debug\netcoreapp2.0\CenturiesToMinutes.dll
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\CenturiesToMinutes\obj\Debug\netcoreapp2.0\CenturiesToMinutes.pdb

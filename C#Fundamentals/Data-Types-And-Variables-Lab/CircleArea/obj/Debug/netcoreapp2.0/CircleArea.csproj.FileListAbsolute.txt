@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\CircleArea\bin\Debug\netcoreapp2.0\CircleArea.deps.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\CircleArea\bin\Debug\netcoreapp2.0\CircleArea.runtimeconfig.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\CircleArea\bin\Debug\netcoreapp2.0\CircleArea.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\CircleArea\bin\Debug\netcoreapp2.0\CircleArea.dll
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\CircleArea\bin\Debug\netcoreapp2.0\CircleArea.pdb
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\CircleArea\obj\Debug\netcoreapp2.0\CircleArea.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\CircleArea\obj\Debug\netcoreapp2.0\CircleArea.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\CircleArea\obj\Debug\netcoreapp2.0\CircleArea.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\CircleArea\obj\Debug\netcoreapp2.0\CircleArea.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\CircleArea\obj\Debug\netcoreapp2.0\CircleArea.dll
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\CircleArea\obj\Debug\netcoreapp2.0\CircleArea.pdb

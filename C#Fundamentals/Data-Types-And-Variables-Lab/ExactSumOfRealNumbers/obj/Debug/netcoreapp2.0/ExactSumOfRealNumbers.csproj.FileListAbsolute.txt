@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\ExactSumOfRealNumbers.deps.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\ExactSumOfRealNumbers.runtimeconfig.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\ExactSumOfRealNumbers.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\ExactSumOfRealNumbers.dll
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\ExactSumOfRealNumbers.pdb
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\ExactSumOfRealNumbers.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\ExactSumOfRealNumbers.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\ExactSumOfRealNumbers.dll
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\ExactSumOfRealNumbers.pdb

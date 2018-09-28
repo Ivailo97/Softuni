@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\IntegerOperations\bin\Debug\netcoreapp2.0\IntegerOperations.deps.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\IntegerOperations\bin\Debug\netcoreapp2.0\IntegerOperations.runtimeconfig.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\IntegerOperations\bin\Debug\netcoreapp2.0\IntegerOperations.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\IntegerOperations\bin\Debug\netcoreapp2.0\IntegerOperations.dll
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\IntegerOperations\bin\Debug\netcoreapp2.0\IntegerOperations.pdb
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\IntegerOperations\obj\Debug\netcoreapp2.0\IntegerOperations.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\IntegerOperations\obj\Debug\netcoreapp2.0\IntegerOperations.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\IntegerOperations\obj\Debug\netcoreapp2.0\IntegerOperations.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\IntegerOperations\obj\Debug\netcoreapp2.0\IntegerOperations.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\IntegerOperations\obj\Debug\netcoreapp2.0\IntegerOperations.dll
+C:\Projects\TechModule4.0\Data-Types-And-Variables-Lab\IntegerOperations\obj\Debug\netcoreapp2.0\IntegerOperations.pdb
