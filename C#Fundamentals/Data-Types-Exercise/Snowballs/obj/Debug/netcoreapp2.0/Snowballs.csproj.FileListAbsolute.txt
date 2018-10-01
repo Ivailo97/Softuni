@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Data-Types-Exercise\Snowballs\bin\Debug\netcoreapp2.0\Snowballs.deps.json
+C:\Projects\TechModule4.0\Data-Types-Exercise\Snowballs\bin\Debug\netcoreapp2.0\Snowballs.runtimeconfig.json
+C:\Projects\TechModule4.0\Data-Types-Exercise\Snowballs\bin\Debug\netcoreapp2.0\Snowballs.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Data-Types-Exercise\Snowballs\bin\Debug\netcoreapp2.0\Snowballs.dll
+C:\Projects\TechModule4.0\Data-Types-Exercise\Snowballs\bin\Debug\netcoreapp2.0\Snowballs.pdb
+C:\Projects\TechModule4.0\Data-Types-Exercise\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Data-Types-Exercise\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Data-Types-Exercise\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Data-Types-Exercise\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Data-Types-Exercise\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.dll
+C:\Projects\TechModule4.0\Data-Types-Exercise\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.pdb

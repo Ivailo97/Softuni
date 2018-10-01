@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Data-Types-Exercise\SumDigits\bin\Debug\netcoreapp2.0\SumDigits.deps.json
+C:\Projects\TechModule4.0\Data-Types-Exercise\SumDigits\bin\Debug\netcoreapp2.0\SumDigits.runtimeconfig.json
+C:\Projects\TechModule4.0\Data-Types-Exercise\SumDigits\bin\Debug\netcoreapp2.0\SumDigits.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Data-Types-Exercise\SumDigits\bin\Debug\netcoreapp2.0\SumDigits.dll
+C:\Projects\TechModule4.0\Data-Types-Exercise\SumDigits\bin\Debug\netcoreapp2.0\SumDigits.pdb
+C:\Projects\TechModule4.0\Data-Types-Exercise\SumDigits\obj\Debug\netcoreapp2.0\SumDigits.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Data-Types-Exercise\SumDigits\obj\Debug\netcoreapp2.0\SumDigits.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Data-Types-Exercise\SumDigits\obj\Debug\netcoreapp2.0\SumDigits.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Data-Types-Exercise\SumDigits\obj\Debug\netcoreapp2.0\SumDigits.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Data-Types-Exercise\SumDigits\obj\Debug\netcoreapp2.0\SumDigits.dll
+C:\Projects\TechModule4.0\Data-Types-Exercise\SumDigits\obj\Debug\netcoreapp2.0\SumDigits.pdb

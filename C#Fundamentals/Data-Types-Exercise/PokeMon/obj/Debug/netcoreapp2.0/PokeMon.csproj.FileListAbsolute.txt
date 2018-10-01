@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Data-Types-Exercise\PokeMon\bin\Debug\netcoreapp2.0\PokeMon.deps.json
+C:\Projects\TechModule4.0\Data-Types-Exercise\PokeMon\bin\Debug\netcoreapp2.0\PokeMon.runtimeconfig.json
+C:\Projects\TechModule4.0\Data-Types-Exercise\PokeMon\bin\Debug\netcoreapp2.0\PokeMon.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Data-Types-Exercise\PokeMon\bin\Debug\netcoreapp2.0\PokeMon.dll
+C:\Projects\TechModule4.0\Data-Types-Exercise\PokeMon\bin\Debug\netcoreapp2.0\PokeMon.pdb
+C:\Projects\TechModule4.0\Data-Types-Exercise\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Data-Types-Exercise\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Data-Types-Exercise\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Data-Types-Exercise\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Data-Types-Exercise\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.dll
+C:\Projects\TechModule4.0\Data-Types-Exercise\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.pdb

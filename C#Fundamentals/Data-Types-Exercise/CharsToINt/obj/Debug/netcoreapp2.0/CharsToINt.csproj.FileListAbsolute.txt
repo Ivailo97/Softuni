@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\Data-Types-Exercise\CharsToINt\obj\Debug\netcoreapp2.0\CharsToINt.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Data-Types-Exercise\CharsToINt\obj\Debug\netcoreapp2.0\CharsToINt.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Data-Types-Exercise\CharsToINt\obj\Debug\netcoreapp2.0\CharsToINt.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Data-Types-Exercise\CharsToINt\bin\Debug\netcoreapp2.0\CharsToINt.deps.json
+C:\Projects\TechModule4.0\Data-Types-Exercise\CharsToINt\bin\Debug\netcoreapp2.0\CharsToINt.runtimeconfig.json
+C:\Projects\TechModule4.0\Data-Types-Exercise\CharsToINt\bin\Debug\netcoreapp2.0\CharsToINt.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Data-Types-Exercise\CharsToINt\bin\Debug\netcoreapp2.0\CharsToINt.dll
+C:\Projects\TechModule4.0\Data-Types-Exercise\CharsToINt\bin\Debug\netcoreapp2.0\CharsToINt.pdb
+C:\Projects\TechModule4.0\Data-Types-Exercise\CharsToINt\obj\Debug\netcoreapp2.0\CharsToINt.dll
+C:\Projects\TechModule4.0\Data-Types-Exercise\CharsToINt\obj\Debug\netcoreapp2.0\CharsToINt.pdb
