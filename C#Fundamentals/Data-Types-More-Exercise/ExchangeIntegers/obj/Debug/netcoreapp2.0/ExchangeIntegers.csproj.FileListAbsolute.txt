@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\ExchangeIntegers\bin\Debug\netcoreapp2.0\ExchangeIntegers.deps.json
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\ExchangeIntegers\bin\Debug\netcoreapp2.0\ExchangeIntegers.runtimeconfig.json
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\ExchangeIntegers\bin\Debug\netcoreapp2.0\ExchangeIntegers.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\ExchangeIntegers\bin\Debug\netcoreapp2.0\ExchangeIntegers.dll
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\ExchangeIntegers\bin\Debug\netcoreapp2.0\ExchangeIntegers.pdb
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\ExchangeIntegers\obj\Debug\netcoreapp2.0\ExchangeIntegers.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\ExchangeIntegers\obj\Debug\netcoreapp2.0\ExchangeIntegers.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\ExchangeIntegers\obj\Debug\netcoreapp2.0\ExchangeIntegers.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\ExchangeIntegers\obj\Debug\netcoreapp2.0\ExchangeIntegers.dll
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\ExchangeIntegers\obj\Debug\netcoreapp2.0\ExchangeIntegers.pdb

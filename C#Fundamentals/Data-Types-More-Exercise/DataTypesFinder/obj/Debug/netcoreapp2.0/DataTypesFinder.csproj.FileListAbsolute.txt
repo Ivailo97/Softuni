@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\DataTypesFinder\bin\Debug\netcoreapp2.0\DataTypesFinder.deps.json
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\DataTypesFinder\bin\Debug\netcoreapp2.0\DataTypesFinder.runtimeconfig.json
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\DataTypesFinder\bin\Debug\netcoreapp2.0\DataTypesFinder.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\DataTypesFinder\bin\Debug\netcoreapp2.0\DataTypesFinder.dll
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\DataTypesFinder\bin\Debug\netcoreapp2.0\DataTypesFinder.pdb
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\DataTypesFinder\obj\Debug\netcoreapp2.0\DataTypesFinder.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\DataTypesFinder\obj\Debug\netcoreapp2.0\DataTypesFinder.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\DataTypesFinder\obj\Debug\netcoreapp2.0\DataTypesFinder.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\DataTypesFinder\obj\Debug\netcoreapp2.0\DataTypesFinder.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\DataTypesFinder\obj\Debug\netcoreapp2.0\DataTypesFinder.dll
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\DataTypesFinder\obj\Debug\netcoreapp2.0\DataTypesFinder.pdb

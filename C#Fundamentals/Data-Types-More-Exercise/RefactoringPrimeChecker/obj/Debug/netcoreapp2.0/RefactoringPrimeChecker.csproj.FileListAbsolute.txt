@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\RefactoringPrimeChecker\bin\Debug\netcoreapp2.0\RefactoringPrimeChecker.deps.json
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\RefactoringPrimeChecker\bin\Debug\netcoreapp2.0\RefactoringPrimeChecker.runtimeconfig.json
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\RefactoringPrimeChecker\bin\Debug\netcoreapp2.0\RefactoringPrimeChecker.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\RefactoringPrimeChecker\bin\Debug\netcoreapp2.0\RefactoringPrimeChecker.dll
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\RefactoringPrimeChecker\bin\Debug\netcoreapp2.0\RefactoringPrimeChecker.pdb
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\RefactoringPrimeChecker\obj\Debug\netcoreapp2.0\RefactoringPrimeChecker.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\RefactoringPrimeChecker\obj\Debug\netcoreapp2.0\RefactoringPrimeChecker.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\RefactoringPrimeChecker\obj\Debug\netcoreapp2.0\RefactoringPrimeChecker.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\RefactoringPrimeChecker\obj\Debug\netcoreapp2.0\RefactoringPrimeChecker.dll
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\RefactoringPrimeChecker\obj\Debug\netcoreapp2.0\RefactoringPrimeChecker.pdb

@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\FromLeftToTheRight\bin\Debug\netcoreapp2.0\FromLeftToTheRight.deps.json
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\FromLeftToTheRight\bin\Debug\netcoreapp2.0\FromLeftToTheRight.runtimeconfig.json
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\FromLeftToTheRight\bin\Debug\netcoreapp2.0\FromLeftToTheRight.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\FromLeftToTheRight\bin\Debug\netcoreapp2.0\FromLeftToTheRight.dll
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\FromLeftToTheRight\bin\Debug\netcoreapp2.0\FromLeftToTheRight.pdb
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\FromLeftToTheRight\obj\Debug\netcoreapp2.0\FromLeftToTheRight.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\FromLeftToTheRight\obj\Debug\netcoreapp2.0\FromLeftToTheRight.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\FromLeftToTheRight\obj\Debug\netcoreapp2.0\FromLeftToTheRight.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\FromLeftToTheRight\obj\Debug\netcoreapp2.0\FromLeftToTheRight.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\FromLeftToTheRight\obj\Debug\netcoreapp2.0\FromLeftToTheRight.dll
+C:\Projects\TechModule4.0\Data-Types-More-Exercise\FromLeftToTheRight\obj\Debug\netcoreapp2.0\FromLeftToTheRight.pdb
