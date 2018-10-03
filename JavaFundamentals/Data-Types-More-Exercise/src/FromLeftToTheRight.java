@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class FromLeftToTheRight {
@@ -8,36 +7,64 @@ public class FromLeftToTheRight {
 
         int n = Integer.parseInt(scanner.nextLine());
 
-        for (int i = 0; i < n ; i++) {
+        for (int i = 0; i < n; i++) {
 
-            int[] num = Arrays.stream(scanner.nextLine()
-                    .split(" "))
-                    .mapToInt(Integer::parseInt)
-                    .toArray();
+            String[] nums = scanner.nextLine().split(" ");
 
-            if (num[0] > num[1]){
+            boolean isInteger = true;
 
-                int sum = 0;
+            try {
+                Integer.parseInt(nums[0]);
+            } catch (Exception e) {
 
-                int copy = num[0];
+                isInteger = false;
+            }
 
-                while (copy != 0){
+            boolean isDecimal = true;
 
-                    sum += copy % 10;
-                    copy /= 10;
+            try {
+                Double.parseDouble(nums[0]);
+            } catch (Exception e) {
+                isDecimal = false;
+            }
+
+            boolean condiditon = true;
+
+            if (isDecimal) {
+                condiditon = Double.parseDouble(nums[0]) > Double.parseDouble(nums[1]);
+            } else if (isInteger) {
+                condiditon = Integer.parseInt(nums[0]) > Integer.parseInt(nums[1]);
+            }
+
+            if (condiditon) {
+
+                long sum = 0;
+
+                char[] numAsString = nums[0].toCharArray();
+
+                for (int k = 0; k < numAsString.length; k++) {
+
+                    try {
+                        sum += Long.parseLong(numAsString[k] + "");
+                    } catch (Exception e) {
+
+                        continue;
+                    }
                 }
 
                 System.out.println(sum);
-            }else {
+            } else {
+                long sum = 0;
 
-                int sum = 0;
+                char[] numAsString = nums[1].toCharArray();
 
-                int copy = num[1];
+                for (int k = 0; k < numAsString.length; k++) {
+                    try {
+                        sum += Long.parseLong(numAsString[k] + "");
+                    } catch (Exception e) {
 
-                while (copy != 0){
-
-                    sum += copy % 10;
-                    copy /= 10;
+                        continue;
+                    }
                 }
 
                 System.out.println(sum);

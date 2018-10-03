@@ -15,27 +15,46 @@ namespace DataTypesFinder
                     break;
                 }
 
-                bool isInteger = long.TryParse(input, out long result);
-                bool isBool = bool.TryParse(input, out bool result1);
-                bool isRealNumber = decimal.TryParse(input, out decimal result2);
-                bool isChar = char.TryParse(input, out char result3);
-               
+                bool isNum = true;
 
-                if (isInteger)
+                try
+                {
+                    int num = int.Parse(input);
+                }
+                catch (Exception e)
+                {
+
+                    isNum = false;
+                }
+
+                bool isDouble = true;
+
+                try
+                {
+                    double num = double.Parse(input);
+
+                }
+                catch (Exception e)
+                {
+                    isDouble = false;
+                }
+
+                if (isNum)
                 {
                     Console.WriteLine($"{input} is integer type");
                 }
-                else if (isBool)
+                else if (input.Length == 1)
                 {
-                    Console.WriteLine($"{input} is boolean type");
+                    Console.WriteLine($"{input} is character type");
                 }
-                else if (isRealNumber)
+                else if (isDouble)
                 {
                     Console.WriteLine($"{input} is floating point type");
                 }
-                else if (isChar)
+                else if (input.ToLower() == "false"
+                      || input.ToLower() == "true")
                 {
-                    Console.WriteLine($"{input} is character type");
+                    Console.WriteLine($"{input} is boolean type");
                 }
                 else
                 {

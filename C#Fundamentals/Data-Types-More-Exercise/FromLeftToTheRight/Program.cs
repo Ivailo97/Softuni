@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-
+using System.Numerics;
 
 namespace FromLeftToTheRight
 {
@@ -12,34 +12,65 @@ namespace FromLeftToTheRight
 
             for (int i = 0; i < n; i++)
             {
-                long[] nums = Console.ReadLine().Split().Select(long.Parse).ToArray();
+                string[] nums = Console.ReadLine().Split().ToArray();
 
-                if (nums[0] > nums[1])
+                bool isInteger = BigInteger.TryParse(nums[0], out BigInteger result);
+                bool isDecimal = decimal.TryParse(nums[0], out decimal resultDecimal);
+
+                bool condiditon = true;
+
+                if (isDecimal)
                 {
-                    int sum = 0;
-                    char[] numAsString = nums[0].ToString().ToCharArray();
+                    condiditon = decimal.Parse(nums[0]) > decimal.Parse(nums[1]);
+                }
+                else if (isInteger)
+                {
+                    condiditon = BigInteger.Parse(nums[0]) > BigInteger.Parse(nums[1]);
+                }
+
+                if (condiditon)
+                {
+                    BigInteger sum = 0;
+
+                    char[] numAsString = nums[0].ToCharArray();
 
                     for (int k = 0; k < numAsString.Length; k++)
                     {
-                        sum += int.Parse(numAsString[k].ToString());
+                        try
+                        {
+                            sum += BigInteger.Parse(numAsString[k].ToString());
+                        }
+                        catch (Exception)
+                        {
+
+                            continue;
+                        }
                     }
 
                     Console.WriteLine(sum);
                 }
                 else
                 {
-                    int sum = 0;
-                    char[] numAsString = nums[1].ToString().ToCharArray();
+                    BigInteger sum = 0;
+
+                    char[] numAsString = nums[1].ToCharArray();
 
                     for (int k = 0; k < numAsString.Length; k++)
                     {
-                        sum += int.Parse(numAsString[k].ToString());
+                        try
+                        {
+                            sum += BigInteger.Parse(numAsString[k].ToString());
+                        }
+                        catch (Exception)
+                        {
+
+                            continue;
+                        }
                     }
 
                     Console.WriteLine(sum);
                 }
             }
-
         }
     }
 }
