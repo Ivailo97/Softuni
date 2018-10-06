@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Arrays-Lab\CondenseArrayToNumber\bin\Debug\netcoreapp2.0\CondenseArrayToNumber.deps.json
+C:\Projects\TechModule4.0\Arrays-Lab\CondenseArrayToNumber\bin\Debug\netcoreapp2.0\CondenseArrayToNumber.runtimeconfig.json
+C:\Projects\TechModule4.0\Arrays-Lab\CondenseArrayToNumber\bin\Debug\netcoreapp2.0\CondenseArrayToNumber.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Arrays-Lab\CondenseArrayToNumber\bin\Debug\netcoreapp2.0\CondenseArrayToNumber.dll
+C:\Projects\TechModule4.0\Arrays-Lab\CondenseArrayToNumber\bin\Debug\netcoreapp2.0\CondenseArrayToNumber.pdb
+C:\Projects\TechModule4.0\Arrays-Lab\CondenseArrayToNumber\obj\Debug\netcoreapp2.0\CondenseArrayToNumber.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Arrays-Lab\CondenseArrayToNumber\obj\Debug\netcoreapp2.0\CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Arrays-Lab\CondenseArrayToNumber\obj\Debug\netcoreapp2.0\CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Arrays-Lab\CondenseArrayToNumber\obj\Debug\netcoreapp2.0\CondenseArrayToNumber.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Arrays-Lab\CondenseArrayToNumber\obj\Debug\netcoreapp2.0\CondenseArrayToNumber.dll
+C:\Projects\TechModule4.0\Arrays-Lab\CondenseArrayToNumber\obj\Debug\netcoreapp2.0\CondenseArrayToNumber.pdb
