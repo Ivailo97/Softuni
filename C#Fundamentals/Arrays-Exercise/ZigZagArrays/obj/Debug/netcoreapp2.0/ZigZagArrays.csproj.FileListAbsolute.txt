@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\Arrays-Exercise\ZigZagArrays\bin\Debug\netcoreapp2.0\ZigZagArrays.deps.json
+C:\Projects\TechModule4.0\Arrays-Exercise\ZigZagArrays\bin\Debug\netcoreapp2.0\ZigZagArrays.runtimeconfig.json
+C:\Projects\TechModule4.0\Arrays-Exercise\ZigZagArrays\bin\Debug\netcoreapp2.0\ZigZagArrays.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Arrays-Exercise\ZigZagArrays\bin\Debug\netcoreapp2.0\ZigZagArrays.dll
+C:\Projects\TechModule4.0\Arrays-Exercise\ZigZagArrays\bin\Debug\netcoreapp2.0\ZigZagArrays.pdb
+C:\Projects\TechModule4.0\Arrays-Exercise\ZigZagArrays\obj\Debug\netcoreapp2.0\ZigZagArrays.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Arrays-Exercise\ZigZagArrays\obj\Debug\netcoreapp2.0\ZigZagArrays.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Arrays-Exercise\ZigZagArrays\obj\Debug\netcoreapp2.0\ZigZagArrays.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Arrays-Exercise\ZigZagArrays\obj\Debug\netcoreapp2.0\ZigZagArrays.dll
+C:\Projects\TechModule4.0\Arrays-Exercise\ZigZagArrays\obj\Debug\netcoreapp2.0\ZigZagArrays.pdb

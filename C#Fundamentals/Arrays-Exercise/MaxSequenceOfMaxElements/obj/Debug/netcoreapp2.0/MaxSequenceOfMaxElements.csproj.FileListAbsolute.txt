@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Arrays-Exercise\MaxSequenceOfMaxElements\bin\Debug\netcoreapp2.0\MaxSequenceOfMaxElements.deps.json
+C:\Projects\TechModule4.0\Arrays-Exercise\MaxSequenceOfMaxElements\bin\Debug\netcoreapp2.0\MaxSequenceOfMaxElements.runtimeconfig.json
+C:\Projects\TechModule4.0\Arrays-Exercise\MaxSequenceOfMaxElements\bin\Debug\netcoreapp2.0\MaxSequenceOfMaxElements.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Arrays-Exercise\MaxSequenceOfMaxElements\bin\Debug\netcoreapp2.0\MaxSequenceOfMaxElements.dll
+C:\Projects\TechModule4.0\Arrays-Exercise\MaxSequenceOfMaxElements\bin\Debug\netcoreapp2.0\MaxSequenceOfMaxElements.pdb
+C:\Projects\TechModule4.0\Arrays-Exercise\MaxSequenceOfMaxElements\obj\Debug\netcoreapp2.0\MaxSequenceOfMaxElements.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Arrays-Exercise\MaxSequenceOfMaxElements\obj\Debug\netcoreapp2.0\MaxSequenceOfMaxElements.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Arrays-Exercise\MaxSequenceOfMaxElements\obj\Debug\netcoreapp2.0\MaxSequenceOfMaxElements.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Arrays-Exercise\MaxSequenceOfMaxElements\obj\Debug\netcoreapp2.0\MaxSequenceOfMaxElements.dll
+C:\Projects\TechModule4.0\Arrays-Exercise\MaxSequenceOfMaxElements\obj\Debug\netcoreapp2.0\MaxSequenceOfMaxElements.pdb
+C:\Projects\TechModule4.0\Arrays-Exercise\MaxSequenceOfMaxElements\obj\Debug\netcoreapp2.0\MaxSequenceOfMaxElements.csprojAssemblyReference.cache

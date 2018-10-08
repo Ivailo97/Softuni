@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\Arrays-Exercise\Magic Sum\bin\Debug\netcoreapp2.0\Magic Sum.deps.json
+C:\Projects\TechModule4.0\Arrays-Exercise\Magic Sum\bin\Debug\netcoreapp2.0\Magic Sum.runtimeconfig.json
+C:\Projects\TechModule4.0\Arrays-Exercise\Magic Sum\bin\Debug\netcoreapp2.0\Magic Sum.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Arrays-Exercise\Magic Sum\bin\Debug\netcoreapp2.0\Magic Sum.dll
+C:\Projects\TechModule4.0\Arrays-Exercise\Magic Sum\bin\Debug\netcoreapp2.0\Magic Sum.pdb
+C:\Projects\TechModule4.0\Arrays-Exercise\Magic Sum\obj\Debug\netcoreapp2.0\Magic Sum.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Arrays-Exercise\Magic Sum\obj\Debug\netcoreapp2.0\Magic Sum.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Arrays-Exercise\Magic Sum\obj\Debug\netcoreapp2.0\Magic Sum.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Arrays-Exercise\Magic Sum\obj\Debug\netcoreapp2.0\Magic Sum.dll
+C:\Projects\TechModule4.0\Arrays-Exercise\Magic Sum\obj\Debug\netcoreapp2.0\Magic Sum.pdb

@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Arrays-Exercise\Train\bin\Debug\netcoreapp2.0\Train.deps.json
+C:\Projects\TechModule4.0\Arrays-Exercise\Train\bin\Debug\netcoreapp2.0\Train.runtimeconfig.json
+C:\Projects\TechModule4.0\Arrays-Exercise\Train\bin\Debug\netcoreapp2.0\Train.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Arrays-Exercise\Train\bin\Debug\netcoreapp2.0\Train.dll
+C:\Projects\TechModule4.0\Arrays-Exercise\Train\bin\Debug\netcoreapp2.0\Train.pdb
+C:\Projects\TechModule4.0\Arrays-Exercise\Train\obj\Debug\netcoreapp2.0\Train.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Arrays-Exercise\Train\obj\Debug\netcoreapp2.0\Train.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Arrays-Exercise\Train\obj\Debug\netcoreapp2.0\Train.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Arrays-Exercise\Train\obj\Debug\netcoreapp2.0\Train.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Arrays-Exercise\Train\obj\Debug\netcoreapp2.0\Train.dll
+C:\Projects\TechModule4.0\Arrays-Exercise\Train\obj\Debug\netcoreapp2.0\Train.pdb

@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\Arrays-Exercise\Common Elements\bin\Debug\netcoreapp2.0\Common Elements.deps.json
+C:\Projects\TechModule4.0\Arrays-Exercise\Common Elements\bin\Debug\netcoreapp2.0\Common Elements.runtimeconfig.json
+C:\Projects\TechModule4.0\Arrays-Exercise\Common Elements\bin\Debug\netcoreapp2.0\Common Elements.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Arrays-Exercise\Common Elements\bin\Debug\netcoreapp2.0\Common Elements.dll
+C:\Projects\TechModule4.0\Arrays-Exercise\Common Elements\bin\Debug\netcoreapp2.0\Common Elements.pdb
+C:\Projects\TechModule4.0\Arrays-Exercise\Common Elements\obj\Debug\netcoreapp2.0\Common Elements.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Arrays-Exercise\Common Elements\obj\Debug\netcoreapp2.0\Common Elements.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Arrays-Exercise\Common Elements\obj\Debug\netcoreapp2.0\Common Elements.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Arrays-Exercise\Common Elements\obj\Debug\netcoreapp2.0\Common Elements.dll
+C:\Projects\TechModule4.0\Arrays-Exercise\Common Elements\obj\Debug\netcoreapp2.0\Common Elements.pdb
