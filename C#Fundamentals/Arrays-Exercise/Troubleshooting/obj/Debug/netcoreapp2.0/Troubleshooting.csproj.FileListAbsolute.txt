@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Arrays-Exercise\Troubleshooting\bin\Debug\netcoreapp2.0\Troubleshooting.deps.json
+C:\Projects\TechModule4.0\Arrays-Exercise\Troubleshooting\bin\Debug\netcoreapp2.0\Troubleshooting.runtimeconfig.json
+C:\Projects\TechModule4.0\Arrays-Exercise\Troubleshooting\bin\Debug\netcoreapp2.0\Troubleshooting.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Arrays-Exercise\Troubleshooting\bin\Debug\netcoreapp2.0\Troubleshooting.dll
+C:\Projects\TechModule4.0\Arrays-Exercise\Troubleshooting\bin\Debug\netcoreapp2.0\Troubleshooting.pdb
+C:\Projects\TechModule4.0\Arrays-Exercise\Troubleshooting\obj\Debug\netcoreapp2.0\Troubleshooting.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Arrays-Exercise\Troubleshooting\obj\Debug\netcoreapp2.0\Troubleshooting.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Arrays-Exercise\Troubleshooting\obj\Debug\netcoreapp2.0\Troubleshooting.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Arrays-Exercise\Troubleshooting\obj\Debug\netcoreapp2.0\Troubleshooting.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Arrays-Exercise\Troubleshooting\obj\Debug\netcoreapp2.0\Troubleshooting.dll
+C:\Projects\TechModule4.0\Arrays-Exercise\Troubleshooting\obj\Debug\netcoreapp2.0\Troubleshooting.pdb

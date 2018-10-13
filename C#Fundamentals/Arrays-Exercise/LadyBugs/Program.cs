@@ -50,7 +50,6 @@ namespace LadyBugs
         public static void Move(int[] field, string direction, int position, int distance)
         {
             int startIndex = 0;
-            bool hasChanged = false;
 
             switch (direction)
             {
@@ -64,8 +63,6 @@ namespace LadyBugs
                         {
                             field[i] = 1;
                             field[position] = 0;
-
-                            hasChanged = true;
                             break;
                         }
                     }
@@ -82,17 +79,10 @@ namespace LadyBugs
                         {
                             field[i] = 1;
                             field[position] = 0;
-
-                            hasChanged = true;
                             break;
                         }
                     }
                     break;
-            }
-
-            if (hasChanged == false)
-            {
-                field[position] = 0;
             }
         }
     }
