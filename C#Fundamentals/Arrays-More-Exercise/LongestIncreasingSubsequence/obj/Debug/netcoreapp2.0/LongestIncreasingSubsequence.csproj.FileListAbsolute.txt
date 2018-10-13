@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Arrays-More-Exercise\LongestIncreasingSubsequence\obj\Debug\netcoreapp2.0\LongestIncreasingSubsequence.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Arrays-More-Exercise\LongestIncreasingSubsequence\obj\Debug\netcoreapp2.0\LongestIncreasingSubsequence.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Arrays-More-Exercise\LongestIncreasingSubsequence\obj\Debug\netcoreapp2.0\LongestIncreasingSubsequence.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Arrays-More-Exercise\LongestIncreasingSubsequence\obj\Debug\netcoreapp2.0\LongestIncreasingSubsequence.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Arrays-More-Exercise\LongestIncreasingSubsequence\bin\Debug\netcoreapp2.0\LongestIncreasingSubsequence.deps.json
+C:\Projects\TechModule4.0\Arrays-More-Exercise\LongestIncreasingSubsequence\bin\Debug\netcoreapp2.0\LongestIncreasingSubsequence.runtimeconfig.json
+C:\Projects\TechModule4.0\Arrays-More-Exercise\LongestIncreasingSubsequence\bin\Debug\netcoreapp2.0\LongestIncreasingSubsequence.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Arrays-More-Exercise\LongestIncreasingSubsequence\bin\Debug\netcoreapp2.0\LongestIncreasingSubsequence.dll
+C:\Projects\TechModule4.0\Arrays-More-Exercise\LongestIncreasingSubsequence\bin\Debug\netcoreapp2.0\LongestIncreasingSubsequence.pdb
+C:\Projects\TechModule4.0\Arrays-More-Exercise\LongestIncreasingSubsequence\obj\Debug\netcoreapp2.0\LongestIncreasingSubsequence.dll
+C:\Projects\TechModule4.0\Arrays-More-Exercise\LongestIncreasingSubsequence\obj\Debug\netcoreapp2.0\LongestIncreasingSubsequence.pdb
