@@ -101,7 +101,6 @@ public class KaminoFactory {
                 bestSequenceIndex = sequenceIndex;
             }
 
-            startOnesIndex = 0;
             onesInARow = 1;
 
         }

@@ -10,10 +10,9 @@ namespace MaxSequenceOfMaxElements
         {
             int[] arr = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
-            int start = 0;
             int len = 1;
             int bestStart = 0;
-            int bestLen = 0;
+            int bestLen = 1;
 
             for (int i = 1; i < arr.Length; i++)
             {
@@ -29,7 +28,6 @@ namespace MaxSequenceOfMaxElements
                 }
                 else
                 {
-                    start = i;
                     len = 1;
 
                 }
