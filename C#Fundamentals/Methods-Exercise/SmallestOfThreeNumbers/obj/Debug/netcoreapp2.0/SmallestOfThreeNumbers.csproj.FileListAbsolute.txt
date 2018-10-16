@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Methods-Exercise\SmallestOfThreeNumbers\bin\Debug\netcoreapp2.0\SmallestOfThreeNumbers.deps.json
+C:\Projects\TechModule4.0\Methods-Exercise\SmallestOfThreeNumbers\bin\Debug\netcoreapp2.0\SmallestOfThreeNumbers.runtimeconfig.json
+C:\Projects\TechModule4.0\Methods-Exercise\SmallestOfThreeNumbers\bin\Debug\netcoreapp2.0\SmallestOfThreeNumbers.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Methods-Exercise\SmallestOfThreeNumbers\bin\Debug\netcoreapp2.0\SmallestOfThreeNumbers.dll
+C:\Projects\TechModule4.0\Methods-Exercise\SmallestOfThreeNumbers\bin\Debug\netcoreapp2.0\SmallestOfThreeNumbers.pdb
+C:\Projects\TechModule4.0\Methods-Exercise\SmallestOfThreeNumbers\obj\Debug\netcoreapp2.0\SmallestOfThreeNumbers.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Methods-Exercise\SmallestOfThreeNumbers\obj\Debug\netcoreapp2.0\SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Methods-Exercise\SmallestOfThreeNumbers\obj\Debug\netcoreapp2.0\SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Methods-Exercise\SmallestOfThreeNumbers\obj\Debug\netcoreapp2.0\SmallestOfThreeNumbers.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Methods-Exercise\SmallestOfThreeNumbers\obj\Debug\netcoreapp2.0\SmallestOfThreeNumbers.dll
+C:\Projects\TechModule4.0\Methods-Exercise\SmallestOfThreeNumbers\obj\Debug\netcoreapp2.0\SmallestOfThreeNumbers.pdb

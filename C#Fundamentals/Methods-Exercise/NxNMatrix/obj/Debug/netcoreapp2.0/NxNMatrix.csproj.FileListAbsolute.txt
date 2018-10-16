@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\Methods-Exercise\NxNMatrix\bin\Debug\netcoreapp2.0\NxNMatrix.deps.json
+C:\Projects\TechModule4.0\Methods-Exercise\NxNMatrix\bin\Debug\netcoreapp2.0\NxNMatrix.runtimeconfig.json
+C:\Projects\TechModule4.0\Methods-Exercise\NxNMatrix\bin\Debug\netcoreapp2.0\NxNMatrix.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Methods-Exercise\NxNMatrix\bin\Debug\netcoreapp2.0\NxNMatrix.dll
+C:\Projects\TechModule4.0\Methods-Exercise\NxNMatrix\bin\Debug\netcoreapp2.0\NxNMatrix.pdb
+C:\Projects\TechModule4.0\Methods-Exercise\NxNMatrix\obj\Debug\netcoreapp2.0\NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Methods-Exercise\NxNMatrix\obj\Debug\netcoreapp2.0\NxNMatrix.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Methods-Exercise\NxNMatrix\obj\Debug\netcoreapp2.0\NxNMatrix.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Methods-Exercise\NxNMatrix\obj\Debug\netcoreapp2.0\NxNMatrix.dll
+C:\Projects\TechModule4.0\Methods-Exercise\NxNMatrix\obj\Debug\netcoreapp2.0\NxNMatrix.pdb

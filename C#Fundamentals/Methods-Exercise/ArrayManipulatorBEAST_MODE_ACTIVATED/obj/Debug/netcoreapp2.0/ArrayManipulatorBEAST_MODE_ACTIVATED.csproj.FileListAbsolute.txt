@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Methods-Exercise\ArrayManipulatorBEAST_MODE_ACTIVATED\bin\Debug\netcoreapp2.0\ArrayManipulatorBEAST_MODE_ACTIVATED.deps.json
+C:\Projects\TechModule4.0\Methods-Exercise\ArrayManipulatorBEAST_MODE_ACTIVATED\bin\Debug\netcoreapp2.0\ArrayManipulatorBEAST_MODE_ACTIVATED.runtimeconfig.json
+C:\Projects\TechModule4.0\Methods-Exercise\ArrayManipulatorBEAST_MODE_ACTIVATED\bin\Debug\netcoreapp2.0\ArrayManipulatorBEAST_MODE_ACTIVATED.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Methods-Exercise\ArrayManipulatorBEAST_MODE_ACTIVATED\bin\Debug\netcoreapp2.0\ArrayManipulatorBEAST_MODE_ACTIVATED.dll
+C:\Projects\TechModule4.0\Methods-Exercise\ArrayManipulatorBEAST_MODE_ACTIVATED\bin\Debug\netcoreapp2.0\ArrayManipulatorBEAST_MODE_ACTIVATED.pdb
+C:\Projects\TechModule4.0\Methods-Exercise\ArrayManipulatorBEAST_MODE_ACTIVATED\obj\Debug\netcoreapp2.0\ArrayManipulatorBEAST_MODE_ACTIVATED.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Methods-Exercise\ArrayManipulatorBEAST_MODE_ACTIVATED\obj\Debug\netcoreapp2.0\ArrayManipulatorBEAST_MODE_ACTIVATED.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Methods-Exercise\ArrayManipulatorBEAST_MODE_ACTIVATED\obj\Debug\netcoreapp2.0\ArrayManipulatorBEAST_MODE_ACTIVATED.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Methods-Exercise\ArrayManipulatorBEAST_MODE_ACTIVATED\obj\Debug\netcoreapp2.0\ArrayManipulatorBEAST_MODE_ACTIVATED.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Methods-Exercise\ArrayManipulatorBEAST_MODE_ACTIVATED\obj\Debug\netcoreapp2.0\ArrayManipulatorBEAST_MODE_ACTIVATED.dll
+C:\Projects\TechModule4.0\Methods-Exercise\ArrayManipulatorBEAST_MODE_ACTIVATED\obj\Debug\netcoreapp2.0\ArrayManipulatorBEAST_MODE_ACTIVATED.pdb

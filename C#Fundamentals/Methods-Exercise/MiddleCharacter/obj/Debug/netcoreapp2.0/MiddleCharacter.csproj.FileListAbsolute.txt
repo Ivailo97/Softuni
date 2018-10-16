@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\Methods-Exercise\MiddleCharacter\bin\Debug\netcoreapp2.0\MiddleCharacter.deps.json
+C:\Projects\TechModule4.0\Methods-Exercise\MiddleCharacter\bin\Debug\netcoreapp2.0\MiddleCharacter.runtimeconfig.json
+C:\Projects\TechModule4.0\Methods-Exercise\MiddleCharacter\bin\Debug\netcoreapp2.0\MiddleCharacter.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Methods-Exercise\MiddleCharacter\bin\Debug\netcoreapp2.0\MiddleCharacter.dll
+C:\Projects\TechModule4.0\Methods-Exercise\MiddleCharacter\bin\Debug\netcoreapp2.0\MiddleCharacter.pdb
+C:\Projects\TechModule4.0\Methods-Exercise\MiddleCharacter\obj\Debug\netcoreapp2.0\MiddleCharacter.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Methods-Exercise\MiddleCharacter\obj\Debug\netcoreapp2.0\MiddleCharacter.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Methods-Exercise\MiddleCharacter\obj\Debug\netcoreapp2.0\MiddleCharacter.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Methods-Exercise\MiddleCharacter\obj\Debug\netcoreapp2.0\MiddleCharacter.dll
+C:\Projects\TechModule4.0\Methods-Exercise\MiddleCharacter\obj\Debug\netcoreapp2.0\MiddleCharacter.pdb

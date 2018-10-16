@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Methods-Exercise\TopNumbers\bin\Debug\netcoreapp2.0\TopNumbers.deps.json
+C:\Projects\TechModule4.0\Methods-Exercise\TopNumbers\bin\Debug\netcoreapp2.0\TopNumbers.runtimeconfig.json
+C:\Projects\TechModule4.0\Methods-Exercise\TopNumbers\bin\Debug\netcoreapp2.0\TopNumbers.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Methods-Exercise\TopNumbers\bin\Debug\netcoreapp2.0\TopNumbers.dll
+C:\Projects\TechModule4.0\Methods-Exercise\TopNumbers\bin\Debug\netcoreapp2.0\TopNumbers.pdb
+C:\Projects\TechModule4.0\Methods-Exercise\TopNumbers\obj\Debug\netcoreapp2.0\TopNumbers.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Methods-Exercise\TopNumbers\obj\Debug\netcoreapp2.0\TopNumbers.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Methods-Exercise\TopNumbers\obj\Debug\netcoreapp2.0\TopNumbers.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Methods-Exercise\TopNumbers\obj\Debug\netcoreapp2.0\TopNumbers.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Methods-Exercise\TopNumbers\obj\Debug\netcoreapp2.0\TopNumbers.dll
+C:\Projects\TechModule4.0\Methods-Exercise\TopNumbers\obj\Debug\netcoreapp2.0\TopNumbers.pdb

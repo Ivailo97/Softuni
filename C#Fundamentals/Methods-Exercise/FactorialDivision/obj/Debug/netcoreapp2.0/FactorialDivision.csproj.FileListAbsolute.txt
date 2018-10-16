@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\Methods-Exercise\FactorialDivision\bin\Debug\netcoreapp2.0\FactorialDivision.deps.json
+C:\Projects\TechModule4.0\Methods-Exercise\FactorialDivision\bin\Debug\netcoreapp2.0\FactorialDivision.runtimeconfig.json
+C:\Projects\TechModule4.0\Methods-Exercise\FactorialDivision\bin\Debug\netcoreapp2.0\FactorialDivision.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Methods-Exercise\FactorialDivision\bin\Debug\netcoreapp2.0\FactorialDivision.dll
+C:\Projects\TechModule4.0\Methods-Exercise\FactorialDivision\bin\Debug\netcoreapp2.0\FactorialDivision.pdb
+C:\Projects\TechModule4.0\Methods-Exercise\FactorialDivision\obj\Debug\netcoreapp2.0\FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Methods-Exercise\FactorialDivision\obj\Debug\netcoreapp2.0\FactorialDivision.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Methods-Exercise\FactorialDivision\obj\Debug\netcoreapp2.0\FactorialDivision.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Methods-Exercise\FactorialDivision\obj\Debug\netcoreapp2.0\FactorialDivision.dll
+C:\Projects\TechModule4.0\Methods-Exercise\FactorialDivision\obj\Debug\netcoreapp2.0\FactorialDivision.pdb
