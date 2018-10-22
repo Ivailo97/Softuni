@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\List-Exercise\CardGames\bin\Debug\netcoreapp2.1\CardGames.deps.json
+C:\Projects\TechModule4.0\List-Exercise\CardGames\bin\Debug\netcoreapp2.1\CardGames.runtimeconfig.json
+C:\Projects\TechModule4.0\List-Exercise\CardGames\bin\Debug\netcoreapp2.1\CardGames.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\List-Exercise\CardGames\bin\Debug\netcoreapp2.1\CardGames.dll
+C:\Projects\TechModule4.0\List-Exercise\CardGames\bin\Debug\netcoreapp2.1\CardGames.pdb
+C:\Projects\TechModule4.0\List-Exercise\CardGames\obj\Debug\netcoreapp2.1\CardGames.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\List-Exercise\CardGames\obj\Debug\netcoreapp2.1\CardGames.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\List-Exercise\CardGames\obj\Debug\netcoreapp2.1\CardGames.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\List-Exercise\CardGames\obj\Debug\netcoreapp2.1\CardGames.AssemblyInfo.cs
+C:\Projects\TechModule4.0\List-Exercise\CardGames\obj\Debug\netcoreapp2.1\CardGames.dll
+C:\Projects\TechModule4.0\List-Exercise\CardGames\obj\Debug\netcoreapp2.1\CardGames.pdb

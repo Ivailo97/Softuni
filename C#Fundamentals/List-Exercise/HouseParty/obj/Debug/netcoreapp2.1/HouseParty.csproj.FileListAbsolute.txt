@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\List-Exercise\HouseParty\bin\Debug\netcoreapp2.1\HouseParty.deps.json
+C:\Projects\TechModule4.0\List-Exercise\HouseParty\bin\Debug\netcoreapp2.1\HouseParty.runtimeconfig.json
+C:\Projects\TechModule4.0\List-Exercise\HouseParty\bin\Debug\netcoreapp2.1\HouseParty.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\List-Exercise\HouseParty\bin\Debug\netcoreapp2.1\HouseParty.dll
+C:\Projects\TechModule4.0\List-Exercise\HouseParty\bin\Debug\netcoreapp2.1\HouseParty.pdb
+C:\Projects\TechModule4.0\List-Exercise\HouseParty\obj\Debug\netcoreapp2.1\HouseParty.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\List-Exercise\HouseParty\obj\Debug\netcoreapp2.1\HouseParty.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\List-Exercise\HouseParty\obj\Debug\netcoreapp2.1\HouseParty.AssemblyInfo.cs
+C:\Projects\TechModule4.0\List-Exercise\HouseParty\obj\Debug\netcoreapp2.1\HouseParty.dll
+C:\Projects\TechModule4.0\List-Exercise\HouseParty\obj\Debug\netcoreapp2.1\HouseParty.pdb

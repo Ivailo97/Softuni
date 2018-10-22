@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\List-Exercise\ListOperations\bin\Debug\netcoreapp2.1\ListOperations.deps.json
+C:\Projects\TechModule4.0\List-Exercise\ListOperations\bin\Debug\netcoreapp2.1\ListOperations.runtimeconfig.json
+C:\Projects\TechModule4.0\List-Exercise\ListOperations\bin\Debug\netcoreapp2.1\ListOperations.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\List-Exercise\ListOperations\bin\Debug\netcoreapp2.1\ListOperations.dll
+C:\Projects\TechModule4.0\List-Exercise\ListOperations\bin\Debug\netcoreapp2.1\ListOperations.pdb
+C:\Projects\TechModule4.0\List-Exercise\ListOperations\obj\Debug\netcoreapp2.1\ListOperations.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\List-Exercise\ListOperations\obj\Debug\netcoreapp2.1\ListOperations.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\List-Exercise\ListOperations\obj\Debug\netcoreapp2.1\ListOperations.AssemblyInfo.cs
+C:\Projects\TechModule4.0\List-Exercise\ListOperations\obj\Debug\netcoreapp2.1\ListOperations.dll
+C:\Projects\TechModule4.0\List-Exercise\ListOperations\obj\Debug\netcoreapp2.1\ListOperations.pdb

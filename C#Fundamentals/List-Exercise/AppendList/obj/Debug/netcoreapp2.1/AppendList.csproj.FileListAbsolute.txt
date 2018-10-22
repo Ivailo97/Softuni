@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\List-Exercise\AppendList\bin\Debug\netcoreapp2.1\AppendList.deps.json
+C:\Projects\TechModule4.0\List-Exercise\AppendList\bin\Debug\netcoreapp2.1\AppendList.runtimeconfig.json
+C:\Projects\TechModule4.0\List-Exercise\AppendList\bin\Debug\netcoreapp2.1\AppendList.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\List-Exercise\AppendList\bin\Debug\netcoreapp2.1\AppendList.dll
+C:\Projects\TechModule4.0\List-Exercise\AppendList\bin\Debug\netcoreapp2.1\AppendList.pdb
+C:\Projects\TechModule4.0\List-Exercise\AppendList\obj\Debug\netcoreapp2.1\AppendList.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\List-Exercise\AppendList\obj\Debug\netcoreapp2.1\AppendList.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\List-Exercise\AppendList\obj\Debug\netcoreapp2.1\AppendList.AssemblyInfo.cs
+C:\Projects\TechModule4.0\List-Exercise\AppendList\obj\Debug\netcoreapp2.1\AppendList.dll
+C:\Projects\TechModule4.0\List-Exercise\AppendList\obj\Debug\netcoreapp2.1\AppendList.pdb

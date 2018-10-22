@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\List-Lab\ListManipulationAdvanced\bin\Debug\netcoreapp2.1\ListManipulationAdvanced.deps.json
+C:\Projects\TechModule4.0\List-Lab\ListManipulationAdvanced\bin\Debug\netcoreapp2.1\ListManipulationAdvanced.runtimeconfig.json
+C:\Projects\TechModule4.0\List-Lab\ListManipulationAdvanced\bin\Debug\netcoreapp2.1\ListManipulationAdvanced.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\List-Lab\ListManipulationAdvanced\bin\Debug\netcoreapp2.1\ListManipulationAdvanced.dll
+C:\Projects\TechModule4.0\List-Lab\ListManipulationAdvanced\bin\Debug\netcoreapp2.1\ListManipulationAdvanced.pdb
+C:\Projects\TechModule4.0\List-Lab\ListManipulationAdvanced\obj\Debug\netcoreapp2.1\ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\List-Lab\ListManipulationAdvanced\obj\Debug\netcoreapp2.1\ListManipulationAdvanced.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\List-Lab\ListManipulationAdvanced\obj\Debug\netcoreapp2.1\ListManipulationAdvanced.AssemblyInfo.cs
+C:\Projects\TechModule4.0\List-Lab\ListManipulationAdvanced\obj\Debug\netcoreapp2.1\ListManipulationAdvanced.dll
+C:\Projects\TechModule4.0\List-Lab\ListManipulationAdvanced\obj\Debug\netcoreapp2.1\ListManipulationAdvanced.pdb
