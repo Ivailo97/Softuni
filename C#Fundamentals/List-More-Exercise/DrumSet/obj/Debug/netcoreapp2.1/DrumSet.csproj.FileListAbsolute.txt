@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\List-More-Exercise\DrumSet\bin\Debug\netcoreapp2.1\DrumSet.deps.json
+C:\Projects\TechModule4.0\List-More-Exercise\DrumSet\bin\Debug\netcoreapp2.1\DrumSet.runtimeconfig.json
+C:\Projects\TechModule4.0\List-More-Exercise\DrumSet\bin\Debug\netcoreapp2.1\DrumSet.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\List-More-Exercise\DrumSet\bin\Debug\netcoreapp2.1\DrumSet.dll
+C:\Projects\TechModule4.0\List-More-Exercise\DrumSet\bin\Debug\netcoreapp2.1\DrumSet.pdb
+C:\Projects\TechModule4.0\List-More-Exercise\DrumSet\obj\Debug\netcoreapp2.1\DrumSet.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\List-More-Exercise\DrumSet\obj\Debug\netcoreapp2.1\DrumSet.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\List-More-Exercise\DrumSet\obj\Debug\netcoreapp2.1\DrumSet.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\List-More-Exercise\DrumSet\obj\Debug\netcoreapp2.1\DrumSet.AssemblyInfo.cs
+C:\Projects\TechModule4.0\List-More-Exercise\DrumSet\obj\Debug\netcoreapp2.1\DrumSet.dll
+C:\Projects\TechModule4.0\List-More-Exercise\DrumSet\obj\Debug\netcoreapp2.1\DrumSet.pdb

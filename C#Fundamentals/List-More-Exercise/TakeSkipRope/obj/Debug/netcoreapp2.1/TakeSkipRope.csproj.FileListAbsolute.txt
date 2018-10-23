@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\List-More-Exercise\TakeSkipRope\bin\Debug\netcoreapp2.1\TakeSkipRope.deps.json
+C:\Projects\TechModule4.0\List-More-Exercise\TakeSkipRope\bin\Debug\netcoreapp2.1\TakeSkipRope.runtimeconfig.json
+C:\Projects\TechModule4.0\List-More-Exercise\TakeSkipRope\bin\Debug\netcoreapp2.1\TakeSkipRope.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\List-More-Exercise\TakeSkipRope\bin\Debug\netcoreapp2.1\TakeSkipRope.dll
+C:\Projects\TechModule4.0\List-More-Exercise\TakeSkipRope\bin\Debug\netcoreapp2.1\TakeSkipRope.pdb
+C:\Projects\TechModule4.0\List-More-Exercise\TakeSkipRope\obj\Debug\netcoreapp2.1\TakeSkipRope.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\List-More-Exercise\TakeSkipRope\obj\Debug\netcoreapp2.1\TakeSkipRope.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\List-More-Exercise\TakeSkipRope\obj\Debug\netcoreapp2.1\TakeSkipRope.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\List-More-Exercise\TakeSkipRope\obj\Debug\netcoreapp2.1\TakeSkipRope.AssemblyInfo.cs
+C:\Projects\TechModule4.0\List-More-Exercise\TakeSkipRope\obj\Debug\netcoreapp2.1\TakeSkipRope.dll
+C:\Projects\TechModule4.0\List-More-Exercise\TakeSkipRope\obj\Debug\netcoreapp2.1\TakeSkipRope.pdb

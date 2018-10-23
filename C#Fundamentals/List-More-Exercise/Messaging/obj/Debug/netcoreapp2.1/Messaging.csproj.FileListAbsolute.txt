@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\List-More-Exercise\Messaging\bin\Debug\netcoreapp2.1\Messaging.deps.json
+C:\Projects\TechModule4.0\List-More-Exercise\Messaging\bin\Debug\netcoreapp2.1\Messaging.runtimeconfig.json
+C:\Projects\TechModule4.0\List-More-Exercise\Messaging\bin\Debug\netcoreapp2.1\Messaging.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\List-More-Exercise\Messaging\bin\Debug\netcoreapp2.1\Messaging.dll
+C:\Projects\TechModule4.0\List-More-Exercise\Messaging\bin\Debug\netcoreapp2.1\Messaging.pdb
+C:\Projects\TechModule4.0\List-More-Exercise\Messaging\obj\Debug\netcoreapp2.1\Messaging.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\List-More-Exercise\Messaging\obj\Debug\netcoreapp2.1\Messaging.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\List-More-Exercise\Messaging\obj\Debug\netcoreapp2.1\Messaging.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\List-More-Exercise\Messaging\obj\Debug\netcoreapp2.1\Messaging.AssemblyInfo.cs
+C:\Projects\TechModule4.0\List-More-Exercise\Messaging\obj\Debug\netcoreapp2.1\Messaging.dll
+C:\Projects\TechModule4.0\List-More-Exercise\Messaging\obj\Debug\netcoreapp2.1\Messaging.pdb

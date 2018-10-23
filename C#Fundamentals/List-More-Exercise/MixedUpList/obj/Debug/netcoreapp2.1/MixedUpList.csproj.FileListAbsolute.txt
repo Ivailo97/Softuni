@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\List-More-Exercise\MixedUpList\bin\Debug\netcoreapp2.1\MixedUpList.deps.json
+C:\Projects\TechModule4.0\List-More-Exercise\MixedUpList\bin\Debug\netcoreapp2.1\MixedUpList.runtimeconfig.json
+C:\Projects\TechModule4.0\List-More-Exercise\MixedUpList\bin\Debug\netcoreapp2.1\MixedUpList.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\List-More-Exercise\MixedUpList\bin\Debug\netcoreapp2.1\MixedUpList.dll
+C:\Projects\TechModule4.0\List-More-Exercise\MixedUpList\bin\Debug\netcoreapp2.1\MixedUpList.pdb
+C:\Projects\TechModule4.0\List-More-Exercise\MixedUpList\obj\Debug\netcoreapp2.1\MixedUpList.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\List-More-Exercise\MixedUpList\obj\Debug\netcoreapp2.1\MixedUpList.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\List-More-Exercise\MixedUpList\obj\Debug\netcoreapp2.1\MixedUpList.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\List-More-Exercise\MixedUpList\obj\Debug\netcoreapp2.1\MixedUpList.AssemblyInfo.cs
+C:\Projects\TechModule4.0\List-More-Exercise\MixedUpList\obj\Debug\netcoreapp2.1\MixedUpList.dll
+C:\Projects\TechModule4.0\List-More-Exercise\MixedUpList\obj\Debug\netcoreapp2.1\MixedUpList.pdb
