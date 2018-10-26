@@ -20,7 +20,9 @@ public class HouseParty {
                 } else {
                     System.out.printf("%s is already in the list!%n", name);
                 }
+
             } else {
+
                 if (guests.contains(name)) {
                     guests.remove(name);
 

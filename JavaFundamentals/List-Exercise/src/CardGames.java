@@ -13,8 +13,8 @@ public class CardGames {
         List<Integer> secondHand = Arrays.stream(scanner.nextLine()
                 .split(" ")).map(Integer::parseInt).collect(Collectors.toList());
 
-
         while (true) {
+
             if (firstHand.size() <= 0) {
                 int sum = 0;
                 for (Integer integer : secondHand) {
@@ -33,7 +33,6 @@ public class CardGames {
                     sum += integer;
                 }
                 System.out.printf("First player wins! Sum: %d", sum);
-
                 break;
             }
 

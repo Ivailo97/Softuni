@@ -11,6 +11,7 @@ public class ListOperation {
                 .map(Integer::parseInt).collect(Collectors.toList());
 
         while (true) {
+
             String command = scanner.nextLine();
 
             if (command.equals("End")) {
@@ -40,6 +41,7 @@ public class ListOperation {
 
                 case "Remove":
                     int index = Integer.parseInt(tokens[1]);
+
                     if (index < 0 || index > numbers.size()) {
                         System.out.println("Invalid index");
                         continue;
@@ -50,18 +52,23 @@ public class ListOperation {
                 case "Shift":
                     String direction = tokens[1];
                     int count = Integer.parseInt(tokens[2]);
+                    int end = count % numbers.size();
 
                     if (direction.equals("left")) {
-                        for (int i = 0; i < count % numbers.size(); i++) {
-                            int temp = numbers.get(0);
+
+                        for (int i = 0; i < end; i++) {
+
+                            numbers.add(numbers.get(0));
                             numbers.remove(0);
-                            numbers.add(temp);
+
                         }
                     } else if (direction.equals("right")) {
-                        for (int i = 0; i < count % numbers.size(); i++) {
-                            int temp = numbers.get(numbers.size() - 1);
+
+                        for (int i = 0; i < end; i++) {
+
+                            numbers.add(0, numbers.get(numbers.size() - 1));
                             numbers.remove(numbers.size() - 1);
-                            numbers.add(0, temp);
+
                         }
                     }
                     break;

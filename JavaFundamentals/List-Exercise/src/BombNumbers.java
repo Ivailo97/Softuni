@@ -14,10 +14,10 @@ public class BombNumbers {
 
         int bombNumber = bombNums[0];
         int range = bombNums[1];
-
         int bombIndex = nums.indexOf(bombNumber);
 
         while (bombIndex != -1) {
+
             int left = bombIndex - range;
             int right = bombIndex + range;
 
@@ -28,6 +28,7 @@ public class BombNumbers {
             if (right > nums.size() - 1) {
 
                 right = nums.size() - 1;
+
                 nums.subList(left, right).clear();
                 nums.remove(nums.size() - 1);
 

@@ -23,30 +23,30 @@ public class SoftuniCoursePlanning {
 
             switch (action) {
                 case "Add":
-                    lessons = AddLesson(tokens[1], lessons);
+                    AddLesson(tokens[1], lessons);
                     break;
                 case "Insert":
-                    lessons = InsertLesson(lessons, tokens);
+                    InsertLesson(lessons, tokens);
                     break;
                 case "Remove":
-                    lessons = Remove(lessons, tokens[1]);
+                    Remove(lessons, tokens[1]);
                     break;
                 case "Swap":
-                    lessons = Swap(lessons, tokens);
+                    Swap(lessons, tokens);
                     break;
                 case "Exercise":
-                    lessons = AddExercise(lessons, tokens[1]);
+                    AddExercise(lessons, tokens[1]);
                     break;
             }
         }
 
         for (int i = 0; i < lessons.size(); i++) {
 
-            System.out.println(i + 1+"." + lessons.get(i));
+            System.out.println(i + 1 + "." + lessons.get(i));
         }
     }
 
-    private static List<String> AddExercise(List<String> lessons, String token) {
+    private static void AddExercise(List<String> lessons, String token) {
 
         if (lessons.contains(token) && !lessons.contains(token + "-Exercise")) {
 
@@ -56,11 +56,9 @@ public class SoftuniCoursePlanning {
             lessons.add(token);
             lessons.add(token + "-Exercise");
         }
-
-        return lessons;
     }
 
-    private static List<String> Swap(List<String> lessons, String[] tokens) {
+    private static void Swap(List<String> lessons, String[] tokens) {
 
         String first = tokens[1];
         String second = tokens[2];
@@ -115,12 +113,10 @@ public class SoftuniCoursePlanning {
                 lessons.set(firstExerciseIndex, secondPart.get(1));
                 lessons.set(secondExerciseIndex, firstPart.get(1));
             }
-
         }
-        return lessons;
     }
 
-    private static List<String> Remove(List<String> lessons, String token) {
+    public static void Remove(List<String> lessons, String token) {
 
         int lessonIndex = -1;
         int exerciseIndex = -1;
@@ -144,11 +140,9 @@ public class SoftuniCoursePlanning {
         if (exerciseIndex != -1 && lessonIndex != -1 && exerciseIndex > lessonIndex) {
             lessons.remove(exerciseIndex);
         }
-
-        return lessons;
     }
 
-    private static List<String> InsertLesson(List<String> lessons, String[] tokens) {
+    public static void InsertLesson(List<String> lessons, String[] tokens) {
 
         String lessonToInsert = tokens[1];
         int index = Integer.parseInt(tokens[2]);
@@ -157,17 +151,13 @@ public class SoftuniCoursePlanning {
 
             lessons.add(index, lessonToInsert);
         }
-
-        return lessons;
     }
 
-    private static List<String> AddLesson(String token, List<String> lessons) {
+    public static void AddLesson(String token, List<String> lessons) {
 
         if (!lessons.contains(token)) {
 
             lessons.add(token);
         }
-
-        return lessons;
     }
 }

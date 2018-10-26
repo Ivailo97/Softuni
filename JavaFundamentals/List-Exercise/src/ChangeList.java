@@ -21,8 +21,8 @@ public class ChangeList {
             String action = tokens[0];
 
             switch (action) {
-                case "Delete":
 
+                case "Delete":
                     String element = tokens[1];
                     list = list.stream().filter(x ->x != Integer.parseInt(element)).collect(Collectors.toList());
                     break;

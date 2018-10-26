@@ -7,8 +7,11 @@ public class Train {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        List<Integer> wagons = Arrays.stream(scanner.nextLine().split("\\s+"))
-                .map(Integer::parseInt).collect(Collectors.toList());
+        List<Integer> wagons = Arrays.stream(scanner.nextLine()
+                .split("\\s+"))
+                .map(Integer::parseInt)
+                .collect(Collectors.toList());
+
 
         int maxCount = Integer.parseInt(scanner.nextLine());
 
@@ -22,13 +25,17 @@ public class Train {
             String[] tokens = command.split("\\s+");
 
             if (tokens[0].equals("Add")) {
+
                 wagons.add(Integer.parseInt(tokens[1]));
+
             } else {
+
                 int passengers = Integer.parseInt(tokens[0]);
 
                 for (int i = 0; i < wagons.size(); i++) {
 
                     if (wagons.get(i) + passengers <= maxCount) {
+
                         wagons.set(i, wagons.get(i) + passengers);
                         break;
                     }
