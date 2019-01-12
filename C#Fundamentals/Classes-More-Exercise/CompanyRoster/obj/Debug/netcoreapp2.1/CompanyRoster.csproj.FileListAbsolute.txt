@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Classes-More-Exercise\CompanyRoster\bin\Debug\netcoreapp2.1\CompanyRoster.deps.json
+C:\Projects\TechModule4.0\Classes-More-Exercise\CompanyRoster\bin\Debug\netcoreapp2.1\CompanyRoster.runtimeconfig.json
+C:\Projects\TechModule4.0\Classes-More-Exercise\CompanyRoster\bin\Debug\netcoreapp2.1\CompanyRoster.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Classes-More-Exercise\CompanyRoster\bin\Debug\netcoreapp2.1\CompanyRoster.dll
+C:\Projects\TechModule4.0\Classes-More-Exercise\CompanyRoster\bin\Debug\netcoreapp2.1\CompanyRoster.pdb
+C:\Projects\TechModule4.0\Classes-More-Exercise\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Classes-More-Exercise\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Classes-More-Exercise\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Classes-More-Exercise\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Classes-More-Exercise\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.dll
+C:\Projects\TechModule4.0\Classes-More-Exercise\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.pdb

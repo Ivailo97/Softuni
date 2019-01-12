@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\CountCharsInAString\bin\Debug\netcoreapp2.1\CountCharsInAString.deps.json
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\CountCharsInAString\bin\Debug\netcoreapp2.1\CountCharsInAString.runtimeconfig.json
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\CountCharsInAString\bin\Debug\netcoreapp2.1\CountCharsInAString.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\CountCharsInAString\bin\Debug\netcoreapp2.1\CountCharsInAString.dll
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\CountCharsInAString\bin\Debug\netcoreapp2.1\CountCharsInAString.pdb
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\CountCharsInAString\obj\Debug\netcoreapp2.1\CountCharsInAString.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\CountCharsInAString\obj\Debug\netcoreapp2.1\CountCharsInAString.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\CountCharsInAString\obj\Debug\netcoreapp2.1\CountCharsInAString.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\CountCharsInAString\obj\Debug\netcoreapp2.1\CountCharsInAString.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\CountCharsInAString\obj\Debug\netcoreapp2.1\CountCharsInAString.dll
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\CountCharsInAString\obj\Debug\netcoreapp2.1\CountCharsInAString.pdb

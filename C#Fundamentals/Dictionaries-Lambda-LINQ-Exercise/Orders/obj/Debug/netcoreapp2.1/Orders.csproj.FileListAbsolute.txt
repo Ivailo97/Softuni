@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\Orders\bin\Debug\netcoreapp2.1\Orders.deps.json
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\Orders\bin\Debug\netcoreapp2.1\Orders.runtimeconfig.json
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\Orders\bin\Debug\netcoreapp2.1\Orders.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\Orders\bin\Debug\netcoreapp2.1\Orders.dll
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\Orders\bin\Debug\netcoreapp2.1\Orders.pdb
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\Orders\obj\Debug\netcoreapp2.1\Orders.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\Orders\obj\Debug\netcoreapp2.1\Orders.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\Orders\obj\Debug\netcoreapp2.1\Orders.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\Orders\obj\Debug\netcoreapp2.1\Orders.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\Orders\obj\Debug\netcoreapp2.1\Orders.dll
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\Orders\obj\Debug\netcoreapp2.1\Orders.pdb

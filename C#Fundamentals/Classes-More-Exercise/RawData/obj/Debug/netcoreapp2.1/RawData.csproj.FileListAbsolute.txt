@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Classes-More-Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.deps.json
+C:\Projects\TechModule4.0\Classes-More-Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.runtimeconfig.json
+C:\Projects\TechModule4.0\Classes-More-Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Classes-More-Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.dll
+C:\Projects\TechModule4.0\Classes-More-Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.pdb
+C:\Projects\TechModule4.0\Classes-More-Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Classes-More-Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Classes-More-Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Classes-More-Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Classes-More-Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.dll
+C:\Projects\TechModule4.0\Classes-More-Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.pdb

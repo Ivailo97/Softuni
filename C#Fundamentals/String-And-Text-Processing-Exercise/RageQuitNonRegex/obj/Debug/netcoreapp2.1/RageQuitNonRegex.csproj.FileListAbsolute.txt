@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\WinningTicket\RageQuitNonRegex\bin\Debug\netcoreapp2.1\RageQuitNonRegex.deps.json
+C:\Projects\TechModule4.0\WinningTicket\RageQuitNonRegex\bin\Debug\netcoreapp2.1\RageQuitNonRegex.runtimeconfig.json
+C:\Projects\TechModule4.0\WinningTicket\RageQuitNonRegex\bin\Debug\netcoreapp2.1\RageQuitNonRegex.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\WinningTicket\RageQuitNonRegex\bin\Debug\netcoreapp2.1\RageQuitNonRegex.dll
+C:\Projects\TechModule4.0\WinningTicket\RageQuitNonRegex\bin\Debug\netcoreapp2.1\RageQuitNonRegex.pdb
+C:\Projects\TechModule4.0\WinningTicket\RageQuitNonRegex\obj\Debug\netcoreapp2.1\RageQuitNonRegex.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\WinningTicket\RageQuitNonRegex\obj\Debug\netcoreapp2.1\RageQuitNonRegex.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\WinningTicket\RageQuitNonRegex\obj\Debug\netcoreapp2.1\RageQuitNonRegex.AssemblyInfo.cs
+C:\Projects\TechModule4.0\WinningTicket\RageQuitNonRegex\obj\Debug\netcoreapp2.1\RageQuitNonRegex.dll
+C:\Projects\TechModule4.0\WinningTicket\RageQuitNonRegex\obj\Debug\netcoreapp2.1\RageQuitNonRegex.pdb
+C:\Projects\TechModule4.0\WinningTicket\RageQuitNonRegex\obj\Debug\netcoreapp2.1\RageQuitNonRegex.csprojAssemblyReference.cache

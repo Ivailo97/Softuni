@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Race\bin\Debug\netcoreapp2.1\Race.deps.json
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Race\bin\Debug\netcoreapp2.1\Race.runtimeconfig.json
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Race\bin\Debug\netcoreapp2.1\Race.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Race\bin\Debug\netcoreapp2.1\Race.dll
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Race\bin\Debug\netcoreapp2.1\Race.pdb
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Race\obj\Debug\netcoreapp2.1\Race.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Race\obj\Debug\netcoreapp2.1\Race.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Race\obj\Debug\netcoreapp2.1\Race.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Race\obj\Debug\netcoreapp2.1\Race.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Race\obj\Debug\netcoreapp2.1\Race.dll
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Race\obj\Debug\netcoreapp2.1\Race.pdb

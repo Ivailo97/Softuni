@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Classes-Exercise\TeamWorkProject\bin\Debug\netcoreapp2.1\TeamWorkProject.deps.json
+C:\Projects\TechModule4.0\Classes-Exercise\TeamWorkProject\bin\Debug\netcoreapp2.1\TeamWorkProject.runtimeconfig.json
+C:\Projects\TechModule4.0\Classes-Exercise\TeamWorkProject\bin\Debug\netcoreapp2.1\TeamWorkProject.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Classes-Exercise\TeamWorkProject\bin\Debug\netcoreapp2.1\TeamWorkProject.dll
+C:\Projects\TechModule4.0\Classes-Exercise\TeamWorkProject\bin\Debug\netcoreapp2.1\TeamWorkProject.pdb
+C:\Projects\TechModule4.0\Classes-Exercise\TeamWorkProject\obj\Debug\netcoreapp2.1\TeamWorkProject.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Classes-Exercise\TeamWorkProject\obj\Debug\netcoreapp2.1\TeamWorkProject.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Classes-Exercise\TeamWorkProject\obj\Debug\netcoreapp2.1\TeamWorkProject.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Classes-Exercise\TeamWorkProject\obj\Debug\netcoreapp2.1\TeamWorkProject.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Classes-Exercise\TeamWorkProject\obj\Debug\netcoreapp2.1\TeamWorkProject.dll
+C:\Projects\TechModule4.0\Classes-Exercise\TeamWorkProject\obj\Debug\netcoreapp2.1\TeamWorkProject.pdb

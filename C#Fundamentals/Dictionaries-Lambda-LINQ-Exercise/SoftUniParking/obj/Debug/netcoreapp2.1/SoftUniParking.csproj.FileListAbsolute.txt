@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.deps.json
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.json
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.dll
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.pdb
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.dll
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.pdb

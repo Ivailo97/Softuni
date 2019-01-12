@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Classes-More-Exercise\OldestFamilyMember\bin\Debug\netcoreapp2.1\OldestFamilyMember.deps.json
+C:\Projects\TechModule4.0\Classes-More-Exercise\OldestFamilyMember\bin\Debug\netcoreapp2.1\OldestFamilyMember.runtimeconfig.json
+C:\Projects\TechModule4.0\Classes-More-Exercise\OldestFamilyMember\bin\Debug\netcoreapp2.1\OldestFamilyMember.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Classes-More-Exercise\OldestFamilyMember\bin\Debug\netcoreapp2.1\OldestFamilyMember.dll
+C:\Projects\TechModule4.0\Classes-More-Exercise\OldestFamilyMember\bin\Debug\netcoreapp2.1\OldestFamilyMember.pdb
+C:\Projects\TechModule4.0\Classes-More-Exercise\OldestFamilyMember\obj\Debug\netcoreapp2.1\OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Classes-More-Exercise\OldestFamilyMember\obj\Debug\netcoreapp2.1\OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Classes-More-Exercise\OldestFamilyMember\obj\Debug\netcoreapp2.1\OldestFamilyMember.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Classes-More-Exercise\OldestFamilyMember\obj\Debug\netcoreapp2.1\OldestFamilyMember.dll
+C:\Projects\TechModule4.0\Classes-More-Exercise\OldestFamilyMember\obj\Debug\netcoreapp2.1\OldestFamilyMember.pdb
+C:\Projects\TechModule4.0\Classes-More-Exercise\OldestFamilyMember\obj\Debug\netcoreapp2.1\OldestFamilyMember.csprojAssemblyReference.cache

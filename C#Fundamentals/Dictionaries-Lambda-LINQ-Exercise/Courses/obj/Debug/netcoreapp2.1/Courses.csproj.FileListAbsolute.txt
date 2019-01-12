@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\Courses\bin\Debug\netcoreapp2.1\Courses.deps.json
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\Courses\bin\Debug\netcoreapp2.1\Courses.runtimeconfig.json
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\Courses\bin\Debug\netcoreapp2.1\Courses.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\Courses\bin\Debug\netcoreapp2.1\Courses.dll
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\Courses\bin\Debug\netcoreapp2.1\Courses.pdb
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\Courses\obj\Debug\netcoreapp2.1\Courses.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\Courses\obj\Debug\netcoreapp2.1\Courses.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\Courses\obj\Debug\netcoreapp2.1\Courses.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\Courses\obj\Debug\netcoreapp2.1\Courses.dll
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\Courses\obj\Debug\netcoreapp2.1\Courses.pdb

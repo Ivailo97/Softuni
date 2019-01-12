@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\WinningTicket\CharacterMultiplier\bin\Debug\netcoreapp2.1\CharacterMultiplier.deps.json
+C:\Projects\TechModule4.0\WinningTicket\CharacterMultiplier\bin\Debug\netcoreapp2.1\CharacterMultiplier.runtimeconfig.json
+C:\Projects\TechModule4.0\WinningTicket\CharacterMultiplier\bin\Debug\netcoreapp2.1\CharacterMultiplier.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\WinningTicket\CharacterMultiplier\bin\Debug\netcoreapp2.1\CharacterMultiplier.dll
+C:\Projects\TechModule4.0\WinningTicket\CharacterMultiplier\bin\Debug\netcoreapp2.1\CharacterMultiplier.pdb
+C:\Projects\TechModule4.0\WinningTicket\CharacterMultiplier\obj\Debug\netcoreapp2.1\CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\WinningTicket\CharacterMultiplier\obj\Debug\netcoreapp2.1\CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\WinningTicket\CharacterMultiplier\obj\Debug\netcoreapp2.1\CharacterMultiplier.AssemblyInfo.cs
+C:\Projects\TechModule4.0\WinningTicket\CharacterMultiplier\obj\Debug\netcoreapp2.1\CharacterMultiplier.dll
+C:\Projects\TechModule4.0\WinningTicket\CharacterMultiplier\obj\Debug\netcoreapp2.1\CharacterMultiplier.pdb

@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\SoftUniBarIncome\bin\Debug\netcoreapp2.1\SoftUniBarIncome.deps.json
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\SoftUniBarIncome\bin\Debug\netcoreapp2.1\SoftUniBarIncome.runtimeconfig.json
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\SoftUniBarIncome\bin\Debug\netcoreapp2.1\SoftUniBarIncome.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\SoftUniBarIncome\bin\Debug\netcoreapp2.1\SoftUniBarIncome.dll
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\SoftUniBarIncome\bin\Debug\netcoreapp2.1\SoftUniBarIncome.pdb
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\SoftUniBarIncome\obj\Debug\netcoreapp2.1\SoftUniBarIncome.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\SoftUniBarIncome\obj\Debug\netcoreapp2.1\SoftUniBarIncome.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\SoftUniBarIncome\obj\Debug\netcoreapp2.1\SoftUniBarIncome.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\SoftUniBarIncome\obj\Debug\netcoreapp2.1\SoftUniBarIncome.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\SoftUniBarIncome\obj\Debug\netcoreapp2.1\SoftUniBarIncome.dll
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\SoftUniBarIncome\obj\Debug\netcoreapp2.1\SoftUniBarIncome.pdb

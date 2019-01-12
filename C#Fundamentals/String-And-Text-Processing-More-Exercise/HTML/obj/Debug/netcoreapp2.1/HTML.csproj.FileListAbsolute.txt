@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\String-And-Text-Processing-More-Exercise\HTML\bin\Debug\netcoreapp2.1\HTML.deps.json
+C:\Projects\TechModule4.0\String-And-Text-Processing-More-Exercise\HTML\bin\Debug\netcoreapp2.1\HTML.runtimeconfig.json
+C:\Projects\TechModule4.0\String-And-Text-Processing-More-Exercise\HTML\bin\Debug\netcoreapp2.1\HTML.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\String-And-Text-Processing-More-Exercise\HTML\bin\Debug\netcoreapp2.1\HTML.dll
+C:\Projects\TechModule4.0\String-And-Text-Processing-More-Exercise\HTML\bin\Debug\netcoreapp2.1\HTML.pdb
+C:\Projects\TechModule4.0\String-And-Text-Processing-More-Exercise\HTML\obj\Debug\netcoreapp2.1\HTML.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\String-And-Text-Processing-More-Exercise\HTML\obj\Debug\netcoreapp2.1\HTML.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\String-And-Text-Processing-More-Exercise\HTML\obj\Debug\netcoreapp2.1\HTML.AssemblyInfo.cs
+C:\Projects\TechModule4.0\String-And-Text-Processing-More-Exercise\HTML\obj\Debug\netcoreapp2.1\HTML.dll
+C:\Projects\TechModule4.0\String-And-Text-Processing-More-Exercise\HTML\obj\Debug\netcoreapp2.1\HTML.pdb

@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\DigitsLetterAndOther\bin\Debug\netcoreapp2.1\DigitsLetterAndOther.deps.json
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\DigitsLetterAndOther\bin\Debug\netcoreapp2.1\DigitsLetterAndOther.runtimeconfig.json
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\DigitsLetterAndOther\bin\Debug\netcoreapp2.1\DigitsLetterAndOther.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\DigitsLetterAndOther\bin\Debug\netcoreapp2.1\DigitsLetterAndOther.dll
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\DigitsLetterAndOther\bin\Debug\netcoreapp2.1\DigitsLetterAndOther.pdb
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\DigitsLetterAndOther\obj\Debug\netcoreapp2.1\DigitsLetterAndOther.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\DigitsLetterAndOther\obj\Debug\netcoreapp2.1\DigitsLetterAndOther.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\DigitsLetterAndOther\obj\Debug\netcoreapp2.1\DigitsLetterAndOther.AssemblyInfo.cs
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\DigitsLetterAndOther\obj\Debug\netcoreapp2.1\DigitsLetterAndOther.dll
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\DigitsLetterAndOther\obj\Debug\netcoreapp2.1\DigitsLetterAndOther.pdb

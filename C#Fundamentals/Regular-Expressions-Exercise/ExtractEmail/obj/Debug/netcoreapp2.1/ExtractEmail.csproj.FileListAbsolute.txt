@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\ExtractEmail\bin\Debug\netcoreapp2.1\ExtractEmail.deps.json
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\ExtractEmail\bin\Debug\netcoreapp2.1\ExtractEmail.runtimeconfig.json
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\ExtractEmail\bin\Debug\netcoreapp2.1\ExtractEmail.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\ExtractEmail\bin\Debug\netcoreapp2.1\ExtractEmail.dll
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\ExtractEmail\bin\Debug\netcoreapp2.1\ExtractEmail.pdb
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\ExtractEmail\obj\Debug\netcoreapp2.1\ExtractEmail.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\ExtractEmail\obj\Debug\netcoreapp2.1\ExtractEmail.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\ExtractEmail\obj\Debug\netcoreapp2.1\ExtractEmail.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\ExtractEmail\obj\Debug\netcoreapp2.1\ExtractEmail.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\ExtractEmail\obj\Debug\netcoreapp2.1\ExtractEmail.dll
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\ExtractEmail\obj\Debug\netcoreapp2.1\ExtractEmail.pdb

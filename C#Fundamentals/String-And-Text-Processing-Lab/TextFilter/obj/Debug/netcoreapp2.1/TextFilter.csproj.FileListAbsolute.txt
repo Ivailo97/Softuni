@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\TextFilter\bin\Debug\netcoreapp2.1\TextFilter.deps.json
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\TextFilter\bin\Debug\netcoreapp2.1\TextFilter.runtimeconfig.json
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\TextFilter\bin\Debug\netcoreapp2.1\TextFilter.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\TextFilter\bin\Debug\netcoreapp2.1\TextFilter.dll
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\TextFilter\bin\Debug\netcoreapp2.1\TextFilter.pdb
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\TextFilter\obj\Debug\netcoreapp2.1\TextFilter.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\TextFilter\obj\Debug\netcoreapp2.1\TextFilter.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\TextFilter\obj\Debug\netcoreapp2.1\TextFilter.AssemblyInfo.cs
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\TextFilter\obj\Debug\netcoreapp2.1\TextFilter.dll
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\TextFilter\obj\Debug\netcoreapp2.1\TextFilter.pdb

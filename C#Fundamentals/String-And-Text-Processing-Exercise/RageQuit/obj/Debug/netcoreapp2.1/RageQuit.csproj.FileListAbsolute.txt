@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\WinningTicket\RageQuit\bin\Debug\netcoreapp2.1\RageQuit.deps.json
+C:\Projects\TechModule4.0\WinningTicket\RageQuit\bin\Debug\netcoreapp2.1\RageQuit.runtimeconfig.json
+C:\Projects\TechModule4.0\WinningTicket\RageQuit\bin\Debug\netcoreapp2.1\RageQuit.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\WinningTicket\RageQuit\bin\Debug\netcoreapp2.1\RageQuit.dll
+C:\Projects\TechModule4.0\WinningTicket\RageQuit\bin\Debug\netcoreapp2.1\RageQuit.pdb
+C:\Projects\TechModule4.0\WinningTicket\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\WinningTicket\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\WinningTicket\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\WinningTicket\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.AssemblyInfo.cs
+C:\Projects\TechModule4.0\WinningTicket\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.dll
+C:\Projects\TechModule4.0\WinningTicket\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.pdb

@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Classes-Exercise\Articles\bin\Debug\netcoreapp2.1\Articles.deps.json
+C:\Projects\TechModule4.0\Classes-Exercise\Articles\bin\Debug\netcoreapp2.1\Articles.runtimeconfig.json
+C:\Projects\TechModule4.0\Classes-Exercise\Articles\bin\Debug\netcoreapp2.1\Articles.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Classes-Exercise\Articles\bin\Debug\netcoreapp2.1\Articles.dll
+C:\Projects\TechModule4.0\Classes-Exercise\Articles\bin\Debug\netcoreapp2.1\Articles.pdb
+C:\Projects\TechModule4.0\Classes-Exercise\Articles\obj\Debug\netcoreapp2.1\Articles.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Classes-Exercise\Articles\obj\Debug\netcoreapp2.1\Articles.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Classes-Exercise\Articles\obj\Debug\netcoreapp2.1\Articles.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Classes-Exercise\Articles\obj\Debug\netcoreapp2.1\Articles.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Classes-Exercise\Articles\obj\Debug\netcoreapp2.1\Articles.dll
+C:\Projects\TechModule4.0\Classes-Exercise\Articles\obj\Debug\netcoreapp2.1\Articles.pdb

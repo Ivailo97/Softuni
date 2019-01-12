@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Classes-More-Exercise\ShoppingSpree\bin\Debug\netcoreapp2.1\ShoppingSpree.deps.json
+C:\Projects\TechModule4.0\Classes-More-Exercise\ShoppingSpree\bin\Debug\netcoreapp2.1\ShoppingSpree.runtimeconfig.json
+C:\Projects\TechModule4.0\Classes-More-Exercise\ShoppingSpree\bin\Debug\netcoreapp2.1\ShoppingSpree.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Classes-More-Exercise\ShoppingSpree\bin\Debug\netcoreapp2.1\ShoppingSpree.dll
+C:\Projects\TechModule4.0\Classes-More-Exercise\ShoppingSpree\bin\Debug\netcoreapp2.1\ShoppingSpree.pdb
+C:\Projects\TechModule4.0\Classes-More-Exercise\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Classes-More-Exercise\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Classes-More-Exercise\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Classes-More-Exercise\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Classes-More-Exercise\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.dll
+C:\Projects\TechModule4.0\Classes-More-Exercise\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.pdb

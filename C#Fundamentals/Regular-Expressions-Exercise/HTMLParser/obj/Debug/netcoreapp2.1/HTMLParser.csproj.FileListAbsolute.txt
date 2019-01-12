@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\HTMLParser\bin\Debug\netcoreapp2.1\HTMLParser.deps.json
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\HTMLParser\bin\Debug\netcoreapp2.1\HTMLParser.runtimeconfig.json
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\HTMLParser\bin\Debug\netcoreapp2.1\HTMLParser.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\HTMLParser\bin\Debug\netcoreapp2.1\HTMLParser.dll
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\HTMLParser\bin\Debug\netcoreapp2.1\HTMLParser.pdb
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\HTMLParser\obj\Debug\netcoreapp2.1\HTMLParser.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\HTMLParser\obj\Debug\netcoreapp2.1\HTMLParser.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\HTMLParser\obj\Debug\netcoreapp2.1\HTMLParser.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\HTMLParser\obj\Debug\netcoreapp2.1\HTMLParser.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\HTMLParser\obj\Debug\netcoreapp2.1\HTMLParser.dll
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\HTMLParser\obj\Debug\netcoreapp2.1\HTMLParser.pdb

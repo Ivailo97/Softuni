@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.deps.json
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.runtimeconfig.json
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.dll
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.pdb
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.dll
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.pdb

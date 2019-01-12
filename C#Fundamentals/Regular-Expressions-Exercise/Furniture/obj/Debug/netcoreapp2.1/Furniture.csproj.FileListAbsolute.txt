@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Furniture\bin\Debug\netcoreapp2.1\Furniture.deps.json
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Furniture\bin\Debug\netcoreapp2.1\Furniture.runtimeconfig.json
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Furniture\bin\Debug\netcoreapp2.1\Furniture.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Furniture\bin\Debug\netcoreapp2.1\Furniture.dll
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Furniture\bin\Debug\netcoreapp2.1\Furniture.pdb
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Furniture\obj\Debug\netcoreapp2.1\Furniture.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Furniture\obj\Debug\netcoreapp2.1\Furniture.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Furniture\obj\Debug\netcoreapp2.1\Furniture.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Furniture\obj\Debug\netcoreapp2.1\Furniture.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Furniture\obj\Debug\netcoreapp2.1\Furniture.dll
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\Furniture\obj\Debug\netcoreapp2.1\Furniture.pdb

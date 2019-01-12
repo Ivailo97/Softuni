@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\CompanyUsers\bin\Debug\netcoreapp2.1\CompanyUsers.deps.json
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\CompanyUsers\bin\Debug\netcoreapp2.1\CompanyUsers.runtimeconfig.json
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\CompanyUsers\bin\Debug\netcoreapp2.1\CompanyUsers.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\CompanyUsers\bin\Debug\netcoreapp2.1\CompanyUsers.dll
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\CompanyUsers\bin\Debug\netcoreapp2.1\CompanyUsers.pdb
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\CompanyUsers\obj\Debug\netcoreapp2.1\CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\CompanyUsers\obj\Debug\netcoreapp2.1\CompanyUsers.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\CompanyUsers\obj\Debug\netcoreapp2.1\CompanyUsers.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\CompanyUsers\obj\Debug\netcoreapp2.1\CompanyUsers.dll
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\CompanyUsers\obj\Debug\netcoreapp2.1\CompanyUsers.pdb

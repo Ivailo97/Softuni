@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Classes-More-Exercise\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.deps.json
+C:\Projects\TechModule4.0\Classes-More-Exercise\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.runtimeconfig.json
+C:\Projects\TechModule4.0\Classes-More-Exercise\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Classes-More-Exercise\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.dll
+C:\Projects\TechModule4.0\Classes-More-Exercise\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.pdb
+C:\Projects\TechModule4.0\Classes-More-Exercise\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\Classes-More-Exercise\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Classes-More-Exercise\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Classes-More-Exercise\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Classes-More-Exercise\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.dll
+C:\Projects\TechModule4.0\Classes-More-Exercise\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.pdb

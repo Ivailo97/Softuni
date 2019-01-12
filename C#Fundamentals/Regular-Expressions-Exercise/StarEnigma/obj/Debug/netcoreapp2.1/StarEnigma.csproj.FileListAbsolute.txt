@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\StarEnigma\bin\Debug\netcoreapp2.1\StarEnigma.deps.json
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\StarEnigma\bin\Debug\netcoreapp2.1\StarEnigma.runtimeconfig.json
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\StarEnigma\bin\Debug\netcoreapp2.1\StarEnigma.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\StarEnigma\bin\Debug\netcoreapp2.1\StarEnigma.dll
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\StarEnigma\bin\Debug\netcoreapp2.1\StarEnigma.pdb
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\StarEnigma\obj\Debug\netcoreapp2.1\StarEnigma.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\StarEnigma\obj\Debug\netcoreapp2.1\StarEnigma.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\StarEnigma\obj\Debug\netcoreapp2.1\StarEnigma.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\StarEnigma\obj\Debug\netcoreapp2.1\StarEnigma.dll
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\StarEnigma\obj\Debug\netcoreapp2.1\StarEnigma.pdb
+C:\Projects\TechModule4.0\Regular-Expressions-Exercise\StarEnigma\obj\Debug\netcoreapp2.1\StarEnigma.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\WinningTicket\ReplaceAllCharacters\bin\Debug\netcoreapp2.1\ReplaceAllCharacters.deps.json
+C:\Projects\TechModule4.0\WinningTicket\ReplaceAllCharacters\bin\Debug\netcoreapp2.1\ReplaceAllCharacters.runtimeconfig.json
+C:\Projects\TechModule4.0\WinningTicket\ReplaceAllCharacters\bin\Debug\netcoreapp2.1\ReplaceAllCharacters.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\WinningTicket\ReplaceAllCharacters\bin\Debug\netcoreapp2.1\ReplaceAllCharacters.dll
+C:\Projects\TechModule4.0\WinningTicket\ReplaceAllCharacters\bin\Debug\netcoreapp2.1\ReplaceAllCharacters.pdb
+C:\Projects\TechModule4.0\WinningTicket\ReplaceAllCharacters\obj\Debug\netcoreapp2.1\ReplaceAllCharacters.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\WinningTicket\ReplaceAllCharacters\obj\Debug\netcoreapp2.1\ReplaceAllCharacters.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\WinningTicket\ReplaceAllCharacters\obj\Debug\netcoreapp2.1\ReplaceAllCharacters.AssemblyInfo.cs
+C:\Projects\TechModule4.0\WinningTicket\ReplaceAllCharacters\obj\Debug\netcoreapp2.1\ReplaceAllCharacters.dll
+C:\Projects\TechModule4.0\WinningTicket\ReplaceAllCharacters\obj\Debug\netcoreapp2.1\ReplaceAllCharacters.pdb
+C:\Projects\TechModule4.0\WinningTicket\ReplaceAllCharacters\obj\Debug\netcoreapp2.1\ReplaceAllCharacters.csprojAssemblyReference.cache

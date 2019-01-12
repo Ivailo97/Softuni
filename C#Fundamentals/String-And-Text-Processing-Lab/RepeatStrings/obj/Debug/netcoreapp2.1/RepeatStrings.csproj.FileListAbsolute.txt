@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\RepeatStrings\bin\Debug\netcoreapp2.1\RepeatStrings.deps.json
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\RepeatStrings\bin\Debug\netcoreapp2.1\RepeatStrings.runtimeconfig.json
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\RepeatStrings\bin\Debug\netcoreapp2.1\RepeatStrings.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\RepeatStrings\bin\Debug\netcoreapp2.1\RepeatStrings.dll
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\RepeatStrings\bin\Debug\netcoreapp2.1\RepeatStrings.pdb
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\RepeatStrings\obj\Debug\netcoreapp2.1\RepeatStrings.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\RepeatStrings\obj\Debug\netcoreapp2.1\RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\RepeatStrings\obj\Debug\netcoreapp2.1\RepeatStrings.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\RepeatStrings\obj\Debug\netcoreapp2.1\RepeatStrings.AssemblyInfo.cs
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\RepeatStrings\obj\Debug\netcoreapp2.1\RepeatStrings.dll
+C:\Projects\TechModule4.0\String-And-Text-Processing-Lab\RepeatStrings\obj\Debug\netcoreapp2.1\RepeatStrings.pdb

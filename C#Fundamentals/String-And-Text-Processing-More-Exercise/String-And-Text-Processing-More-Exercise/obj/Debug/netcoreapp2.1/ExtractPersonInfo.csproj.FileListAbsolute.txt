@@ -1,0 +1,11 @@
+C:\Projects\TechModule4.0\String-And-Text-Processing-More-Exercise\String-And-Text-Processing-More-Exercise\bin\Debug\netcoreapp2.1\ExtractPersonInfo.deps.json
+C:\Projects\TechModule4.0\String-And-Text-Processing-More-Exercise\String-And-Text-Processing-More-Exercise\bin\Debug\netcoreapp2.1\ExtractPersonInfo.runtimeconfig.json
+C:\Projects\TechModule4.0\String-And-Text-Processing-More-Exercise\String-And-Text-Processing-More-Exercise\bin\Debug\netcoreapp2.1\ExtractPersonInfo.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\String-And-Text-Processing-More-Exercise\String-And-Text-Processing-More-Exercise\bin\Debug\netcoreapp2.1\ExtractPersonInfo.dll
+C:\Projects\TechModule4.0\String-And-Text-Processing-More-Exercise\String-And-Text-Processing-More-Exercise\bin\Debug\netcoreapp2.1\ExtractPersonInfo.pdb
+C:\Projects\TechModule4.0\String-And-Text-Processing-More-Exercise\String-And-Text-Processing-More-Exercise\obj\Debug\netcoreapp2.1\ExtractPersonInfo.csprojAssemblyReference.cache
+C:\Projects\TechModule4.0\String-And-Text-Processing-More-Exercise\String-And-Text-Processing-More-Exercise\obj\Debug\netcoreapp2.1\ExtractPersonInfo.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\String-And-Text-Processing-More-Exercise\String-And-Text-Processing-More-Exercise\obj\Debug\netcoreapp2.1\ExtractPersonInfo.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\String-And-Text-Processing-More-Exercise\String-And-Text-Processing-More-Exercise\obj\Debug\netcoreapp2.1\ExtractPersonInfo.AssemblyInfo.cs
+C:\Projects\TechModule4.0\String-And-Text-Processing-More-Exercise\String-And-Text-Processing-More-Exercise\obj\Debug\netcoreapp2.1\ExtractPersonInfo.dll
+C:\Projects\TechModule4.0\String-And-Text-Processing-More-Exercise\String-And-Text-Processing-More-Exercise\obj\Debug\netcoreapp2.1\ExtractPersonInfo.pdb

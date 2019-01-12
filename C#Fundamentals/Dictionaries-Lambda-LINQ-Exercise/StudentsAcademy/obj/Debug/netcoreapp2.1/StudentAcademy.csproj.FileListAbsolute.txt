@@ -1,0 +1,10 @@
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\StudentsAcademy\bin\Debug\netcoreapp2.1\StudentAcademy.deps.json
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\StudentsAcademy\bin\Debug\netcoreapp2.1\StudentAcademy.runtimeconfig.json
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\StudentsAcademy\bin\Debug\netcoreapp2.1\StudentAcademy.runtimeconfig.dev.json
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\StudentsAcademy\bin\Debug\netcoreapp2.1\StudentAcademy.dll
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\StudentsAcademy\bin\Debug\netcoreapp2.1\StudentAcademy.pdb
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\StudentsAcademy\obj\Debug\netcoreapp2.1\StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\StudentsAcademy\obj\Debug\netcoreapp2.1\StudentAcademy.AssemblyInfoInputs.cache
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\StudentsAcademy\obj\Debug\netcoreapp2.1\StudentAcademy.AssemblyInfo.cs
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\StudentsAcademy\obj\Debug\netcoreapp2.1\StudentAcademy.dll
+C:\Projects\TechModule4.0\Dictionaries-Lambda-LINQ-Exercise\StudentsAcademy\obj\Debug\netcoreapp2.1\StudentAcademy.pdb
